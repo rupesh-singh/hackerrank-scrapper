@@ -1,0 +1,23 @@
+[
+  {
+    "id": 160687957,
+    "challenge_id": 20927,
+    "contest_id": 1,
+    "hacker_id": 1385609,
+    "status": "Accepted",
+    "kind": "code",
+    "created_at": 1590431841,
+    "language": "javascript",
+    "hacker_username": "None",
+    "time_ago": "7 days",
+    "in_contest_bounds": "True",
+    "status_code": 1,
+    "score": "10.0",
+    "is_preliminary_score": "None",
+    "challenge":
+      { "name": "Day 0: Hello, World!",
+        "slug": "js10-hello-world"
+      },
+    "inserttime": 1590431842
+  }
+]

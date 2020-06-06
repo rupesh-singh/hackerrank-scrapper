@@ -1,0 +1,1867 @@
+2020-06-06 19:56:47,612 Starts Scrapping
+2020-06-06 19:56:47,612 Getting all the submission - Calling method: get_all_submissions
+2020-06-06 19:56:47,612 URL to get submissionhttps://www.hackerrank.com/rest/contests/master/submissions/
+2020-06-06 19:56:47,612 getting Total Submissionhttps://www.hackerrank.com/rest/contests/master/submissions
+2020-06-06 19:56:47,618 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:56:48,393 https://www.hackerrank.com:443 "GET /rest/contests/master/submissions?offset=0&limit=0 HTTP/1.1" 200 51
+2020-06-06 19:56:48,397 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:56:52,329 https://www.hackerrank.com:443 "GET /rest/contests/master/submissions/?offset=0&limit=100 HTTP/1.1" 200 3746
+2020-06-06 19:56:52,334 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:56:59,359 https://www.hackerrank.com:443 "GET /rest/contests/master/submissions/?offset=101&limit=200 HTTP/1.1" 200 7089
+2020-06-06 19:56:59,365 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:02,731 https://www.hackerrank.com:443 "GET /rest/contests/master/submissions/?offset=201&limit=300 HTTP/1.1" 200 4025
+2020-06-06 19:57:02,736 Get Challenge details: js10-hello-world
+2020-06-06 19:57:02,736 Get problem details: js10-hello-world
+2020-06-06 19:57:02,740 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:03,412 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/js10-hello-world HTTP/1.1" 200 7268
+2020-06-06 19:57:03,415 Get Problem Code: 160687957
+2020-06-06 19:57:03,417 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:04,143 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/js10-hello-world/submissions/160687957 HTTP/1.1" 200 1190
+2020-06-06 19:57:04,147 Get Challenge details: js10-hello-world
+2020-06-06 19:57:04,147 Get problem details: js10-hello-world
+2020-06-06 19:57:04,149 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:04,718 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/js10-hello-world HTTP/1.1" 200 7268
+2020-06-06 19:57:04,721 Get Problem Code: 160687938
+2020-06-06 19:57:04,725 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:05,340 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/js10-hello-world/submissions/160687938 HTTP/1.1" 200 1200
+2020-06-06 19:57:05,344 Get Challenge details: revising-the-select-query
+2020-06-06 19:57:05,344 Get problem details: revising-the-select-query
+2020-06-06 19:57:05,346 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:05,879 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-the-select-query HTTP/1.1" 200 2155
+2020-06-06 19:57:05,881 Get Problem Code: 160637536
+2020-06-06 19:57:05,883 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:06,436 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-the-select-query/submissions/160637536 HTTP/1.1" 200 1070
+2020-06-06 19:57:06,440 Get Challenge details: 2d-array
+2020-06-06 19:57:06,440 Get problem details: 2d-array
+2020-06-06 19:57:06,442 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:06,988 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/2d-array HTTP/1.1" 200 13588
+2020-06-06 19:57:07,002 Get Problem Code: 148933034
+2020-06-06 19:57:07,004 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:07,514 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/2d-array/submissions/148933034 HTTP/1.1" 200 1625
+2020-06-06 19:57:07,518 Get Challenge details: repeated-string
+2020-06-06 19:57:07,518 Get problem details: repeated-string
+2020-06-06 19:57:07,520 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:08,120 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/repeated-string HTTP/1.1" 200 13583
+2020-06-06 19:57:08,139 Get Problem Code: 147931121
+2020-06-06 19:57:08,141 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:08,754 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/repeated-string/submissions/147931121 HTTP/1.1" 200 1758
+2020-06-06 19:57:08,762 Get Challenge details: jumping-on-the-clouds
+2020-06-06 19:57:08,763 Get problem details: jumping-on-the-clouds
+2020-06-06 19:57:08,767 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:09,360 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/jumping-on-the-clouds HTTP/1.1" 200 15626
+2020-06-06 19:57:09,375 Get Problem Code: 147928128
+2020-06-06 19:57:09,377 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:09,898 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/jumping-on-the-clouds/submissions/147928128 HTTP/1.1" 200 1678
+2020-06-06 19:57:09,903 Get Challenge details: counting-valleys
+2020-06-06 19:57:09,903 Get problem details: counting-valleys
+2020-06-06 19:57:09,905 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:10,547 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/counting-valleys HTTP/1.1" 200 12483
+2020-06-06 19:57:10,558 Get Problem Code: 147926453
+2020-06-06 19:57:10,561 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:11,180 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/counting-valleys/submissions/147926453 HTTP/1.1" 200 1859
+2020-06-06 19:57:11,199 Get Challenge details: sock-merchant
+2020-06-06 19:57:11,199 Get problem details: sock-merchant
+2020-06-06 19:57:11,203 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:11,725 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/sock-merchant HTTP/1.1" 200 13001
+2020-06-06 19:57:11,738 Get Problem Code: 147857170
+2020-06-06 19:57:11,740 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:12,412 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/sock-merchant/submissions/147857170 HTTP/1.1" 200 1697
+2020-06-06 19:57:12,417 Get Challenge details: py-hello-world
+2020-06-06 19:57:12,417 Get problem details: py-hello-world
+2020-06-06 19:57:12,419 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:12,910 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/py-hello-world HTTP/1.1" 200 3084
+2020-06-06 19:57:12,912 Get Problem Code: 134036528
+2020-06-06 19:57:12,914 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:13,411 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/py-hello-world/submissions/134036528 HTTP/1.1" 200 950
+2020-06-06 19:57:13,429 Get Challenge details: apple-and-orange
+2020-06-06 19:57:13,430 Get problem details: apple-and-orange
+2020-06-06 19:57:13,434 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:13,985 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/apple-and-orange HTTP/1.1" 200 24348
+2020-06-06 19:57:14,020 Get Problem Code: 75675035
+2020-06-06 19:57:14,024 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:14,556 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/apple-and-orange/submissions/75675035 HTTP/1.1" 200 1607
+2020-06-06 19:57:14,565 Get Challenge details: grading
+2020-06-06 19:57:14,565 Get problem details: grading
+2020-06-06 19:57:14,571 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:15,154 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/grading HTTP/1.1" 200 19995
+2020-06-06 19:57:15,180 Get Problem Code: 75674396
+2020-06-06 19:57:15,182 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:17,893 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/grading/submissions/75674396 HTTP/1.1" 200 1590
+2020-06-06 19:57:17,898 Get Challenge details: birthday-cake-candles
+2020-06-06 19:57:17,898 Get problem details: birthday-cake-candles
+2020-06-06 19:57:17,900 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:18,437 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/birthday-cake-candles HTTP/1.1" 200 14245
+2020-06-06 19:57:18,444 Get Problem Code: 75673576
+2020-06-06 19:57:18,447 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:18,980 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/birthday-cake-candles/submissions/75673576 HTTP/1.1" 200 1565
+2020-06-06 19:57:18,987 Get Challenge details: staircase
+2020-06-06 19:57:18,987 Get problem details: staircase
+2020-06-06 19:57:18,990 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:19,571 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/staircase HTTP/1.1" 200 7470
+2020-06-06 19:57:19,576 Get Problem Code: 75641869
+2020-06-06 19:57:19,581 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:20,727 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/staircase/submissions/75641869 HTTP/1.1" 200 1395
+2020-06-06 19:57:20,731 Get Challenge details: plus-minus
+2020-06-06 19:57:20,731 Get problem details: plus-minus
+2020-06-06 19:57:20,733 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:21,361 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/plus-minus HTTP/1.1" 200 13918
+2020-06-06 19:57:21,374 Get Problem Code: 75641343
+2020-06-06 19:57:21,377 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:21,914 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/plus-minus/submissions/75641343 HTTP/1.1" 200 1496
+2020-06-06 19:57:21,921 Get Challenge details: draw-the-triangle-2
+2020-06-06 19:57:21,922 Get problem details: draw-the-triangle-2
+2020-06-06 19:57:21,925 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:22,448 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/draw-the-triangle-2 HTTP/1.1" 200 1907
+2020-06-06 19:57:22,452 Get Problem Code: 75640822
+2020-06-06 19:57:22,457 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:22,960 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/draw-the-triangle-2/submissions/75640822 HTTP/1.1" 200 993
+2020-06-06 19:57:22,965 Get Challenge details: draw-the-triangle-1
+2020-06-06 19:57:22,965 Get problem details: draw-the-triangle-1
+2020-06-06 19:57:22,969 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:23,470 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/draw-the-triangle-1 HTTP/1.1" 200 1913
+2020-06-06 19:57:23,472 Get Problem Code: 75640378
+2020-06-06 19:57:23,474 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:24,082 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/draw-the-triangle-1/submissions/75640378 HTTP/1.1" 200 1064
+2020-06-06 19:57:24,086 Get Challenge details: draw-the-triangle-1
+2020-06-06 19:57:24,086 Get problem details: draw-the-triangle-1
+2020-06-06 19:57:24,090 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:24,640 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/draw-the-triangle-1 HTTP/1.1" 200 1913
+2020-06-06 19:57:24,643 Get Problem Code: 75640308
+2020-06-06 19:57:24,645 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:25,438 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/draw-the-triangle-1/submissions/75640308 HTTP/1.1" 200 1063
+2020-06-06 19:57:25,443 Get Challenge details: the-company
+2020-06-06 19:57:25,443 Get problem details: the-company
+2020-06-06 19:57:25,446 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:26,083 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/the-company HTTP/1.1" 200 4131
+2020-06-06 19:57:26,086 Get Problem Code: 75639052
+2020-06-06 19:57:26,088 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:26,872 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/the-company/submissions/75639052 HTTP/1.1" 200 1193
+2020-06-06 19:57:26,875 Get Challenge details: the-report
+2020-06-06 19:57:26,875 Get problem details: the-report
+2020-06-06 19:57:26,878 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:27,690 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/the-report HTTP/1.1" 200 3529
+2020-06-06 19:57:27,692 Get Problem Code: 75638568
+2020-06-06 19:57:27,694 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:28,210 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/the-report/submissions/75638568 HTTP/1.1" 200 1022
+2020-06-06 19:57:28,213 Get Challenge details: average-population-of-each-continent
+2020-06-06 19:57:28,213 Get problem details: average-population-of-each-continent
+2020-06-06 19:57:28,216 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:28,773 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/average-population-of-each-continent HTTP/1.1" 200 2315
+2020-06-06 19:57:28,775 Get Problem Code: 75599156
+2020-06-06 19:57:28,778 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:29,273 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/average-population-of-each-continent/submissions/75599156 HTTP/1.1" 200 1004
+2020-06-06 19:57:29,276 Get Challenge details: tag-content-extractor
+2020-06-06 19:57:29,276 Get problem details: tag-content-extractor
+2020-06-06 19:57:29,279 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:29,785 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tag-content-extractor HTTP/1.1" 200 4537
+2020-06-06 19:57:29,789 Get Problem Code: 75596080
+2020-06-06 19:57:29,794 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:30,326 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tag-content-extractor/submissions/75596080 HTTP/1.1" 200 1352
+2020-06-06 19:57:30,332 Get Challenge details: diagonal-difference
+2020-06-06 19:57:30,333 Get problem details: diagonal-difference
+2020-06-06 19:57:30,337 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:30,874 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/diagonal-difference HTTP/1.1" 200 17528
+2020-06-06 19:57:30,894 Get Problem Code: 75594882
+2020-06-06 19:57:30,898 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:31,413 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/diagonal-difference/submissions/75594882 HTTP/1.1" 200 1600
+2020-06-06 19:57:31,417 Get Challenge details: matching-start-end
+2020-06-06 19:57:31,417 Get problem details: matching-start-end
+2020-06-06 19:57:31,419 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:31,915 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-start-end HTTP/1.1" 200 16150
+2020-06-06 19:57:31,930 Get Problem Code: 75589343
+2020-06-06 19:57:31,934 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:32,458 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-start-end/submissions/75589343 HTTP/1.1" 200 896
+2020-06-06 19:57:32,463 Get Challenge details: matching-word-non-word
+2020-06-06 19:57:32,463 Get problem details: matching-word-non-word
+2020-06-06 19:57:32,468 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:33,040 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-word-non-word HTTP/1.1" 200 18895
+2020-06-06 19:57:33,060 Get Problem Code: 75589217
+2020-06-06 19:57:33,063 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:33,601 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-word-non-word/submissions/75589217 HTTP/1.1" 200 892
+2020-06-06 19:57:33,605 Get Challenge details: matching-whitespace-non-whitespace-character
+2020-06-06 19:57:33,605 Get problem details: matching-whitespace-non-whitespace-character
+2020-06-06 19:57:33,607 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:34,187 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-whitespace-non-whitespace-character HTTP/1.1" 200 15867
+2020-06-06 19:57:34,202 Get Problem Code: 75588997
+2020-06-06 19:57:34,204 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:34,678 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-whitespace-non-whitespace-character/submissions/75588997 HTTP/1.1" 200 899
+2020-06-06 19:57:34,681 Get Challenge details: matching-digits-non-digit-character
+2020-06-06 19:57:34,681 Get problem details: matching-digits-non-digit-character
+2020-06-06 19:57:34,683 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:35,215 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-digits-non-digit-character HTTP/1.1" 200 16414
+2020-06-06 19:57:35,226 Get Problem Code: 75588902
+2020-06-06 19:57:35,229 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:35,735 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-digits-non-digit-character/submissions/75588902 HTTP/1.1" 200 895
+2020-06-06 19:57:35,739 Get Challenge details: matching-anything-but-new-line
+2020-06-06 19:57:35,740 Get problem details: matching-anything-but-new-line
+2020-06-06 19:57:35,743 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:36,260 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-anything-but-new-line HTTP/1.1" 200 12290
+2020-06-06 19:57:36,264 Get Problem Code: 75588719
+2020-06-06 19:57:36,266 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:36,740 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-anything-but-new-line/submissions/75588719 HTTP/1.1" 200 893
+2020-06-06 19:57:36,746 Get Challenge details: matching-specific-string
+2020-06-06 19:57:36,746 Get problem details: matching-specific-string
+2020-06-06 19:57:36,750 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:37,389 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-specific-string HTTP/1.1" 200 11914
+2020-06-06 19:57:37,398 Get Problem Code: 75588291
+2020-06-06 19:57:37,400 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:37,955 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/matching-specific-string/submissions/75588291 HTTP/1.1" 200 883
+2020-06-06 19:57:37,960 Get Challenge details: java-lambda-expressions
+2020-06-06 19:57:37,960 Get problem details: java-lambda-expressions
+2020-06-06 19:57:37,964 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:38,484 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-lambda-expressions HTTP/1.1" 200 7444
+2020-06-06 19:57:38,487 Get Problem Code: 75586312
+2020-06-06 19:57:38,489 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:38,990 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-lambda-expressions/submissions/75586312 HTTP/1.1" 200 1202
+2020-06-06 19:57:38,996 Get Challenge details: weather-observation-station-20
+2020-06-06 19:57:38,996 Get problem details: weather-observation-station-20
+2020-06-06 19:57:39,000 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:39,563 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-20 HTTP/1.1" 200 2773
+2020-06-06 19:57:39,566 Get Problem Code: 75582747
+2020-06-06 19:57:39,569 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:40,058 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-20/submissions/75582747 HTTP/1.1" 200 962
+2020-06-06 19:57:40,064 Get Challenge details: weather-observation-station-20
+2020-06-06 19:57:40,064 Get problem details: weather-observation-station-20
+2020-06-06 19:57:40,068 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:40,582 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-20 HTTP/1.1" 200 2773
+2020-06-06 19:57:40,584 Get Problem Code: 75582664
+2020-06-06 19:57:40,587 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:41,062 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-20/submissions/75582664 HTTP/1.1" 200 961
+2020-06-06 19:57:41,065 Get Challenge details: earnings-of-employees
+2020-06-06 19:57:41,066 Get problem details: earnings-of-employees
+2020-06-06 19:57:41,068 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:41,610 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/earnings-of-employees HTTP/1.1" 200 9039
+2020-06-06 19:57:41,614 Get Problem Code: 75582497
+2020-06-06 19:57:41,618 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:42,157 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/earnings-of-employees/submissions/75582497 HTTP/1.1" 200 1008
+2020-06-06 19:57:42,162 Get Challenge details: african-cities
+2020-06-06 19:57:42,162 Get problem details: african-cities
+2020-06-06 19:57:42,165 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:42,698 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/african-cities HTTP/1.1" 200 2203
+2020-06-06 19:57:42,700 Get Problem Code: 75579333
+2020-06-06 19:57:42,703 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:43,200 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/african-cities/submissions/75579333 HTTP/1.1" 200 989
+2020-06-06 19:57:43,205 Get Challenge details: asian-population
+2020-06-06 19:57:43,206 Get problem details: asian-population
+2020-06-06 19:57:43,209 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:44,241 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/asian-population HTTP/1.1" 200 2208
+2020-06-06 19:57:44,243 Get Problem Code: 75579205
+2020-06-06 19:57:44,245 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:44,777 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/asian-population/submissions/75579205 HTTP/1.1" 200 1009
+2020-06-06 19:57:44,781 Get Challenge details: weather-observation-station-19
+2020-06-06 19:57:44,781 Get problem details: weather-observation-station-19
+2020-06-06 19:57:44,784 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:45,324 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-19 HTTP/1.1" 200 5340
+2020-06-06 19:57:45,328 Get Problem Code: 75577761
+2020-06-06 19:57:45,332 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:45,893 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-19/submissions/75577761 HTTP/1.1" 200 1062
+2020-06-06 19:57:45,898 Get Challenge details: weather-observation-station-18
+2020-06-06 19:57:45,899 Get problem details: weather-observation-station-18
+2020-06-06 19:57:45,902 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:46,407 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-18 HTTP/1.1" 200 5367
+2020-06-06 19:57:46,411 Get Problem Code: 75577491
+2020-06-06 19:57:46,414 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:47,147 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-18/submissions/75577491 HTTP/1.1" 200 1051
+2020-06-06 19:57:47,152 Get Challenge details: weather-observation-station-17
+2020-06-06 19:57:47,152 Get problem details: weather-observation-station-17
+2020-06-06 19:57:47,156 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:47,707 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-17 HTTP/1.1" 200 3953
+2020-06-06 19:57:47,711 Get Problem Code: 75576848
+2020-06-06 19:57:47,715 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:48,399 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-17/submissions/75576848 HTTP/1.1" 200 1088
+2020-06-06 19:57:48,404 Get Challenge details: weather-observation-station-17
+2020-06-06 19:57:48,405 Get problem details: weather-observation-station-17
+2020-06-06 19:57:48,408 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:49,206 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-17 HTTP/1.1" 200 3953
+2020-06-06 19:57:49,209 Get Problem Code: 75576771
+2020-06-06 19:57:49,213 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:49,736 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-17/submissions/75576771 HTTP/1.1" 200 1088
+2020-06-06 19:57:49,741 Get Challenge details: weather-observation-station-16
+2020-06-06 19:57:49,741 Get problem details: weather-observation-station-16
+2020-06-06 19:57:49,745 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:50,588 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-16 HTTP/1.1" 200 3875
+2020-06-06 19:57:50,592 Get Problem Code: 75576668
+2020-06-06 19:57:50,595 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:51,121 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-16/submissions/75576668 HTTP/1.1" 200 1005
+2020-06-06 19:57:51,124 Get Challenge details: weather-observation-station-15
+2020-06-06 19:57:51,124 Get problem details: weather-observation-station-15
+2020-06-06 19:57:51,126 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:51,628 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-15 HTTP/1.1" 200 4057
+2020-06-06 19:57:51,631 Get Problem Code: 75576613
+2020-06-06 19:57:51,633 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:52,187 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-15/submissions/75576613 HTTP/1.1" 200 1066
+2020-06-06 19:57:52,191 Get Challenge details: weather-observation-station-5
+2020-06-06 19:57:52,191 Get problem details: weather-observation-station-5
+2020-06-06 19:57:52,193 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:52,686 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-5 HTTP/1.1" 200 3832
+2020-06-06 19:57:52,689 Get Problem Code: 75455344
+2020-06-06 19:57:52,692 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:53,740 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-5/submissions/75455344 HTTP/1.1" 200 1014
+2020-06-06 19:57:53,744 Get Challenge details: weather-observation-station-14
+2020-06-06 19:57:53,744 Get problem details: weather-observation-station-14
+2020-06-06 19:57:53,748 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:54,253 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-14 HTTP/1.1" 200 4051
+2020-06-06 19:57:54,256 Get Problem Code: 75385591
+2020-06-06 19:57:54,258 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:54,785 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-14/submissions/75385591 HTTP/1.1" 200 1015
+2020-06-06 19:57:54,788 Get Challenge details: weather-observation-station-13
+2020-06-06 19:57:54,788 Get problem details: weather-observation-station-13
+2020-06-06 19:57:54,791 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:55,594 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-13 HTTP/1.1" 200 4641
+2020-06-06 19:57:55,596 Get Problem Code: 75385491
+2020-06-06 19:57:55,598 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:56,262 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-13/submissions/75385491 HTTP/1.1" 200 1012
+2020-06-06 19:57:56,265 Get Challenge details: weather-observation-station-2
+2020-06-06 19:57:56,265 Get problem details: weather-observation-station-2
+2020-06-06 19:57:56,269 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:57,038 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-2 HTTP/1.1" 200 4297
+2020-06-06 19:57:57,042 Get Problem Code: 75385352
+2020-06-06 19:57:57,046 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:57,714 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-2/submissions/75385352 HTTP/1.1" 200 981
+2020-06-06 19:57:57,720 Get Challenge details: weather-observation-station-2
+2020-06-06 19:57:57,720 Get problem details: weather-observation-station-2
+2020-06-06 19:57:57,723 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:58,272 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-2 HTTP/1.1" 200 4297
+2020-06-06 19:57:58,276 Get Problem Code: 75385341
+2020-06-06 19:57:58,280 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:58,793 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-2/submissions/75385341 HTTP/1.1" 200 977
+2020-06-06 19:57:58,798 Get Challenge details: the-blunder
+2020-06-06 19:57:58,799 Get problem details: the-blunder
+2020-06-06 19:57:58,803 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:59,370 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/the-blunder HTTP/1.1" 200 9133
+2020-06-06 19:57:59,378 Get Problem Code: 75384467
+2020-06-06 19:57:59,382 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:57:59,918 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/the-blunder/submissions/75384467 HTTP/1.1" 200 995
+2020-06-06 19:57:59,923 Get Challenge details: population-density-difference
+2020-06-06 19:57:59,923 Get problem details: population-density-difference
+2020-06-06 19:57:59,925 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:00,472 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/population-density-difference HTTP/1.1" 200 2093
+2020-06-06 19:58:00,475 Get Problem Code: 75383749
+2020-06-06 19:58:00,477 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:01,079 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/population-density-difference/submissions/75383749 HTTP/1.1" 200 951
+2020-06-06 19:58:01,083 Get Challenge details: japan-population
+2020-06-06 19:58:01,083 Get problem details: japan-population
+2020-06-06 19:58:01,088 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:01,670 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/japan-population HTTP/1.1" 200 2108
+2020-06-06 19:58:01,674 Get Problem Code: 75383698
+2020-06-06 19:58:01,677 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:02,281 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/japan-population/submissions/75383698 HTTP/1.1" 200 994
+2020-06-06 19:58:02,333 Get Challenge details: average-population
+2020-06-06 19:58:02,333 Get problem details: average-population
+2020-06-06 19:58:02,337 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:02,896 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/average-population HTTP/1.1" 200 2098
+2020-06-06 19:58:02,900 Get Problem Code: 75383627
+2020-06-06 19:58:02,902 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:03,408 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/average-population/submissions/75383627 HTTP/1.1" 200 1002
+2020-06-06 19:58:03,411 Get Challenge details: average-population
+2020-06-06 19:58:03,411 Get problem details: average-population
+2020-06-06 19:58:03,413 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:03,898 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/average-population HTTP/1.1" 200 2098
+2020-06-06 19:58:03,900 Get Problem Code: 75383617
+2020-06-06 19:58:03,903 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:04,422 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/average-population/submissions/75383617 HTTP/1.1" 200 1003
+2020-06-06 19:58:04,425 Get Challenge details: revising-aggregations-the-average-function
+2020-06-06 19:58:04,425 Get problem details: revising-aggregations-the-average-function
+2020-06-06 19:58:04,429 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:05,191 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-aggregations-the-average-function HTTP/1.1" 200 2123
+2020-06-06 19:58:05,194 Get Problem Code: 75383443
+2020-06-06 19:58:05,198 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:05,704 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-aggregations-the-average-function/submissions/75383443 HTTP/1.1" 200 1008
+2020-06-06 19:58:05,707 Get Challenge details: revising-aggregations-sum
+2020-06-06 19:58:05,707 Get problem details: revising-aggregations-sum
+2020-06-06 19:58:05,711 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:06,228 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-aggregations-sum HTTP/1.1" 200 2120
+2020-06-06 19:58:06,232 Get Problem Code: 75383376
+2020-06-06 19:58:06,235 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:06,832 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-aggregations-sum/submissions/75383376 HTTP/1.1" 200 1032
+2020-06-06 19:58:06,835 Get Challenge details: revising-aggregations-sum
+2020-06-06 19:58:06,835 Get problem details: revising-aggregations-sum
+2020-06-06 19:58:06,837 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:07,401 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-aggregations-sum HTTP/1.1" 200 2120
+2020-06-06 19:58:07,404 Get Problem Code: 75383362
+2020-06-06 19:58:07,408 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:08,156 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-aggregations-sum/submissions/75383362 HTTP/1.1" 200 1034
+2020-06-06 19:58:08,158 Get Challenge details: revising-aggregations-the-count-function
+2020-06-06 19:58:08,159 Get problem details: revising-aggregations-the-count-function
+2020-06-06 19:58:08,162 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:08,673 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-aggregations-the-count-function HTTP/1.1" 200 2914
+2020-06-06 19:58:08,676 Get Problem Code: 75383098
+2020-06-06 19:58:08,679 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:09,173 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-aggregations-the-count-function/submissions/75383098 HTTP/1.1" 200 1017
+2020-06-06 19:58:09,175 Get Challenge details: what-type-of-triangle
+2020-06-06 19:58:09,175 Get problem details: what-type-of-triangle
+2020-06-06 19:58:09,177 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:09,729 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/what-type-of-triangle HTTP/1.1" 200 7119
+2020-06-06 19:58:09,732 Get Problem Code: 75381573
+2020-06-06 19:58:09,734 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:10,248 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/what-type-of-triangle/submissions/75381573 HTTP/1.1" 200 1085
+2020-06-06 19:58:10,251 Get Challenge details: weather-observation-station-11
+2020-06-06 19:58:10,251 Get problem details: weather-observation-station-11
+2020-06-06 19:58:10,253 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:10,745 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-11 HTTP/1.1" 200 2268
+2020-06-06 19:58:10,747 Get Problem Code: 75377821
+2020-06-06 19:58:10,749 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:11,302 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-11/submissions/75377821 HTTP/1.1" 200 1008
+2020-06-06 19:58:11,304 Get Challenge details: weather-observation-station-10
+2020-06-06 19:58:11,305 Get problem details: weather-observation-station-10
+2020-06-06 19:58:11,307 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:11,870 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-10 HTTP/1.1" 200 2253
+2020-06-06 19:58:11,872 Get Problem Code: 75377553
+2020-06-06 19:58:11,874 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:12,493 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-10/submissions/75377553 HTTP/1.1" 200 1029
+2020-06-06 19:58:12,496 Get Challenge details: weather-observation-station-9
+2020-06-06 19:58:12,496 Get problem details: weather-observation-station-9
+2020-06-06 19:58:12,499 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:13,017 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-9 HTTP/1.1" 200 2269
+2020-06-06 19:58:13,019 Get Problem Code: 75377491
+2020-06-06 19:58:13,022 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:13,551 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-9/submissions/75377491 HTTP/1.1" 200 995
+2020-06-06 19:58:13,554 Get Challenge details: weather-observation-station-8
+2020-06-06 19:58:13,555 Get problem details: weather-observation-station-8
+2020-06-06 19:58:13,557 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:14,191 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-8 HTTP/1.1" 200 2307
+2020-06-06 19:58:14,194 Get Problem Code: 75377405
+2020-06-06 19:58:14,196 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:14,849 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-8/submissions/75377405 HTTP/1.1" 200 1017
+2020-06-06 19:58:14,854 Get Challenge details: weather-observation-station-7
+2020-06-06 19:58:14,854 Get problem details: weather-observation-station-7
+2020-06-06 19:58:14,857 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:15,434 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-7 HTTP/1.1" 200 2251
+2020-06-06 19:58:15,436 Get Problem Code: 75376796
+2020-06-06 19:58:15,438 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:15,932 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-7/submissions/75376796 HTTP/1.1" 200 1011
+2020-06-06 19:58:15,936 Get Challenge details: weather-observation-station-6
+2020-06-06 19:58:15,936 Get problem details: weather-observation-station-6
+2020-06-06 19:58:15,938 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:16,471 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-6 HTTP/1.1" 200 2342
+2020-06-06 19:58:16,473 Get Problem Code: 75376708
+2020-06-06 19:58:16,475 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:17,053 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-6/submissions/75376708 HTTP/1.1" 200 998
+2020-06-06 19:58:17,056 Get Challenge details: weather-observation-station-12
+2020-06-06 19:58:17,056 Get problem details: weather-observation-station-12
+2020-06-06 19:58:17,060 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:17,612 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-12 HTTP/1.1" 200 2285
+2020-06-06 19:58:17,614 Get Problem Code: 75376514
+2020-06-06 19:58:17,616 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:18,135 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-12/submissions/75376514 HTTP/1.1" 200 1119
+2020-06-06 19:58:18,139 Get Challenge details: weather-observation-station-12
+2020-06-06 19:58:18,140 Get problem details: weather-observation-station-12
+2020-06-06 19:58:18,143 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:18,667 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-12 HTTP/1.1" 200 2285
+2020-06-06 19:58:18,671 Get Problem Code: 75376368
+2020-06-06 19:58:18,675 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:19,207 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-12/submissions/75376368 HTTP/1.1" 200 1096
+2020-06-06 19:58:19,209 Get Challenge details: salary-of-employees
+2020-06-06 19:58:19,210 Get problem details: salary-of-employees
+2020-06-06 19:58:19,212 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:19,731 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/salary-of-employees HTTP/1.1" 200 6795
+2020-06-06 19:58:19,736 Get Problem Code: 75374365
+2020-06-06 19:58:19,739 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:20,259 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/salary-of-employees/submissions/75374365 HTTP/1.1" 200 1059
+2020-06-06 19:58:20,262 Get Challenge details: name-of-employees
+2020-06-06 19:58:20,262 Get problem details: name-of-employees
+2020-06-06 19:58:20,264 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:20,757 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/name-of-employees HTTP/1.1" 200 3420
+2020-06-06 19:58:20,759 Get Problem Code: 75374159
+2020-06-06 19:58:20,762 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:21,321 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/name-of-employees/submissions/75374159 HTTP/1.1" 200 1031
+2020-06-06 19:58:21,324 Get Challenge details: name-of-employees
+2020-06-06 19:58:21,324 Get problem details: name-of-employees
+2020-06-06 19:58:21,326 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:21,851 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/name-of-employees HTTP/1.1" 200 3422
+2020-06-06 19:58:21,853 Get Problem Code: 75374154
+2020-06-06 19:58:21,855 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:22,431 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/name-of-employees/submissions/75374154 HTTP/1.1" 200 1027
+2020-06-06 19:58:22,431 Get Challenge details: more-than-75-marks
+2020-06-06 19:58:22,431 Get problem details: more-than-75-marks
+2020-06-06 19:58:22,431 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:22,956 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/more-than-75-marks HTTP/1.1" 200 4192
+2020-06-06 19:58:22,958 Get Problem Code: 75373888
+2020-06-06 19:58:22,960 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:23,591 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/more-than-75-marks/submissions/75373888 HTTP/1.1" 200 1131
+2020-06-06 19:58:23,593 Get Challenge details: select-all-sql
+2020-06-06 19:58:23,594 Get problem details: select-all-sql
+2020-06-06 19:58:23,596 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:24,131 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/select-all-sql HTTP/1.1" 200 2072
+2020-06-06 19:58:24,133 Get Problem Code: 75371422
+2020-06-06 19:58:24,135 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:25,513 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/select-all-sql/submissions/75371422 HTTP/1.1" 200 948
+2020-06-06 19:58:25,515 Get Challenge details: database-normalization-123nf
+2020-06-06 19:58:25,515 Get problem details: database-normalization-123nf
+2020-06-06 19:58:25,517 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:26,063 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/database-normalization-123nf HTTP/1.1" 200 2377
+2020-06-06 19:58:26,065 Get Problem Code: 75370194
+2020-06-06 19:58:26,067 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:26,584 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/database-normalization-123nf/submissions/75370194 HTTP/1.1" 200 739
+2020-06-06 19:58:26,587 Get Challenge details: database-normalization-1-1nf
+2020-06-06 19:58:26,587 Get problem details: database-normalization-1-1nf
+2020-06-06 19:58:26,589 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:27,111 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/database-normalization-1-1nf HTTP/1.1" 200 1843
+2020-06-06 19:58:27,127 Get Problem Code: 75369885
+2020-06-06 19:58:27,129 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:27,626 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/database-normalization-1-1nf/submissions/75369885 HTTP/1.1" 200 737
+2020-06-06 19:58:27,629 Get Challenge details: basics-of-sets-and-relational-algebra-7
+2020-06-06 19:58:27,629 Get problem details: basics-of-sets-and-relational-algebra-7
+2020-06-06 19:58:27,631 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:28,152 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-7 HTTP/1.1" 200 1868
+2020-06-06 19:58:28,154 Get Problem Code: 75369165
+2020-06-06 19:58:28,156 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:28,824 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-7/submissions/75369165 HTTP/1.1" 200 799
+2020-06-06 19:58:28,827 Get Challenge details: basics-of-sets-and-relational-algebra-6
+2020-06-06 19:58:28,827 Get problem details: basics-of-sets-and-relational-algebra-6
+2020-06-06 19:58:28,829 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:30,609 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-6 HTTP/1.1" 200 1786
+2020-06-06 19:58:30,611 Get Problem Code: 75369119
+2020-06-06 19:58:30,613 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:31,159 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-6/submissions/75369119 HTTP/1.1" 200 767
+2020-06-06 19:58:31,162 Get Challenge details: basics-of-sets-and-relational-algebra-4
+2020-06-06 19:58:31,163 Get problem details: basics-of-sets-and-relational-algebra-4
+2020-06-06 19:58:31,165 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:31,737 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-4 HTTP/1.1" 200 2836
+2020-06-06 19:58:31,739 Get Problem Code: 75369057
+2020-06-06 19:58:31,740 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:32,228 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-4/submissions/75369057 HTTP/1.1" 200 823
+2020-06-06 19:58:32,231 Get Challenge details: basics-of-sets-and-relational-algebra-3
+2020-06-06 19:58:32,231 Get problem details: basics-of-sets-and-relational-algebra-3
+2020-06-06 19:58:32,233 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:32,764 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-3 HTTP/1.1" 200 1692
+2020-06-06 19:58:32,767 Get Problem Code: 75368942
+2020-06-06 19:58:32,769 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:33,293 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-3/submissions/75368942 HTTP/1.1" 200 766
+2020-06-06 19:58:33,369 Get Challenge details: basics-of-sets-and-relational-algebra-2
+2020-06-06 19:58:33,369 Get problem details: basics-of-sets-and-relational-algebra-2
+2020-06-06 19:58:33,371 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:33,888 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-2 HTTP/1.1" 200 2790
+2020-06-06 19:58:33,890 Get Problem Code: 75368922
+2020-06-06 19:58:33,892 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:34,653 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-2/submissions/75368922 HTTP/1.1" 200 802
+2020-06-06 19:58:34,655 Get Challenge details: basics-of-sets-and-relational-algebra-2
+2020-06-06 19:58:34,656 Get problem details: basics-of-sets-and-relational-algebra-2
+2020-06-06 19:58:34,657 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:35,177 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-2 HTTP/1.1" 200 2790
+2020-06-06 19:58:35,179 Get Problem Code: 75368905
+2020-06-06 19:58:35,181 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:35,786 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-2/submissions/75368905 HTTP/1.1" 200 797
+2020-06-06 19:58:35,790 Get Challenge details: basics-of-sets-and-relational-algebra-1
+2020-06-06 19:58:35,791 Get problem details: basics-of-sets-and-relational-algebra-1
+2020-06-06 19:58:35,795 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:36,319 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-1 HTTP/1.1" 200 2783
+2020-06-06 19:58:36,321 Get Problem Code: 75368880
+2020-06-06 19:58:36,323 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:37,268 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/basics-of-sets-and-relational-algebra-1/submissions/75368880 HTTP/1.1" 200 799
+2020-06-06 19:58:37,272 Get Challenge details: java-2d-array
+2020-06-06 19:58:37,273 Get problem details: java-2d-array
+2020-06-06 19:58:37,276 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:37,784 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-2d-array HTTP/1.1" 200 5818
+2020-06-06 19:58:37,787 Get Problem Code: 75322633
+2020-06-06 19:58:37,790 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:38,371 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-2d-array/submissions/75322633 HTTP/1.1" 200 1440
+2020-06-06 19:58:38,375 Get Challenge details: java-string-tokens
+2020-06-06 19:58:38,375 Get problem details: java-string-tokens
+2020-06-06 19:58:38,377 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:38,882 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-tokens HTTP/1.1" 200 6647
+2020-06-06 19:58:38,887 Get Problem Code: 75313276
+2020-06-06 19:58:38,891 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:39,410 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-tokens/submissions/75313276 HTTP/1.1" 200 1325
+2020-06-06 19:58:39,416 Get Challenge details: valid-username-checker
+2020-06-06 19:58:39,416 Get problem details: valid-username-checker
+2020-06-06 19:58:39,420 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:40,166 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/valid-username-checker HTTP/1.1" 200 12261
+2020-06-06 19:58:40,166 Get Problem Code: 75294144
+2020-06-06 19:58:40,182 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:40,747 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/valid-username-checker/submissions/75294144 HTTP/1.1" 200 1134
+2020-06-06 19:58:40,752 Get Challenge details: valid-username-checker
+2020-06-06 19:58:40,753 Get problem details: valid-username-checker
+2020-06-06 19:58:40,756 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:41,347 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/valid-username-checker HTTP/1.1" 200 12263
+2020-06-06 19:58:41,354 Get Problem Code: 75294050
+2020-06-06 19:58:41,356 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:41,919 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/valid-username-checker/submissions/75294050 HTTP/1.1" 200 1140
+2020-06-06 19:58:41,921 Get Challenge details: java-regex
+2020-06-06 19:58:41,921 Get problem details: java-regex
+2020-06-06 19:58:41,923 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:42,448 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-regex HTTP/1.1" 200 4460
+2020-06-06 19:58:42,450 Get Problem Code: 75292882
+2020-06-06 19:58:42,452 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:43,131 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-regex/submissions/75292882 HTTP/1.1" 200 1051
+2020-06-06 19:58:43,134 Get Challenge details: weather-observation-station-4
+2020-06-06 19:58:43,134 Get problem details: weather-observation-station-4
+2020-06-06 19:58:43,136 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:43,643 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-4 HTTP/1.1" 200 3126
+2020-06-06 19:58:43,647 Get Problem Code: 75284225
+2020-06-06 19:58:43,652 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:44,180 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-4/submissions/75284225 HTTP/1.1" 200 1057
+2020-06-06 19:58:44,183 Get Challenge details: weather-observation-station-3
+2020-06-06 19:58:44,183 Get problem details: weather-observation-station-3
+2020-06-06 19:58:44,185 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:44,933 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-3 HTTP/1.1" 200 2280
+2020-06-06 19:58:44,935 Get Problem Code: 75283931
+2020-06-06 19:58:44,937 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:45,698 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-3/submissions/75283931 HTTP/1.1" 200 1080
+2020-06-06 19:58:45,702 Get Challenge details: weather-observation-station-1
+2020-06-06 19:58:45,702 Get problem details: weather-observation-station-1
+2020-06-06 19:58:45,704 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:46,211 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-1 HTTP/1.1" 200 2228
+2020-06-06 19:58:46,214 Get Problem Code: 75283556
+2020-06-06 19:58:46,216 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:46,785 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/weather-observation-station-1/submissions/75283556 HTTP/1.1" 200 1073
+2020-06-06 19:58:46,787 Get Challenge details: japanese-cities-name
+2020-06-06 19:58:46,787 Get problem details: japanese-cities-name
+2020-06-06 19:58:46,789 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:47,292 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/japanese-cities-name HTTP/1.1" 200 2131
+2020-06-06 19:58:47,294 Get Problem Code: 75283473
+2020-06-06 19:58:47,296 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:48,060 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/japanese-cities-name/submissions/75283473 HTTP/1.1" 200 1026
+2020-06-06 19:58:48,063 Get Challenge details: japanese-cities-attributes
+2020-06-06 19:58:48,063 Get problem details: japanese-cities-attributes
+2020-06-06 19:58:48,065 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:48,595 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/japanese-cities-attributes HTTP/1.1" 200 2129
+2020-06-06 19:58:48,598 Get Problem Code: 75283321
+2020-06-06 19:58:48,600 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:49,166 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/japanese-cities-attributes/submissions/75283321 HTTP/1.1" 200 1061
+2020-06-06 19:58:49,169 Get Challenge details: select-by-id
+2020-06-06 19:58:49,169 Get problem details: select-by-id
+2020-06-06 19:58:49,171 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:49,673 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/select-by-id HTTP/1.1" 200 2109
+2020-06-06 19:58:49,675 Get Problem Code: 75283235
+2020-06-06 19:58:49,677 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:50,227 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/select-by-id/submissions/75283235 HTTP/1.1" 200 1051
+2020-06-06 19:58:50,230 Get Challenge details: select-all-sql
+2020-06-06 19:58:50,230 Get problem details: select-all-sql
+2020-06-06 19:58:50,232 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:51,418 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/select-all-sql HTTP/1.1" 200 2074
+2020-06-06 19:58:51,420 Get Problem Code: 75283161
+2020-06-06 19:58:51,422 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:52,191 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/select-all-sql/submissions/75283161 HTTP/1.1" 200 1005
+2020-06-06 19:58:52,193 Get Challenge details: revising-the-select-query-2
+2020-06-06 19:58:52,194 Get problem details: revising-the-select-query-2
+2020-06-06 19:58:52,195 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:52,726 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-the-select-query-2 HTTP/1.1" 200 2154
+2020-06-06 19:58:52,728 Get Problem Code: 75283108
+2020-06-06 19:58:52,730 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:53,257 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-the-select-query-2/submissions/75283108 HTTP/1.1" 200 1057
+2020-06-06 19:58:53,259 Get Challenge details: revising-the-select-query
+2020-06-06 19:58:53,260 Get problem details: revising-the-select-query
+2020-06-06 19:58:53,261 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:54,019 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-the-select-query HTTP/1.1" 200 2156
+2020-06-06 19:58:54,021 Get Problem Code: 75282863
+2020-06-06 19:58:54,024 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:54,533 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/revising-the-select-query/submissions/75282863 HTTP/1.1" 200 1074
+2020-06-06 19:58:54,536 Get Challenge details: java-covariance
+2020-06-06 19:58:54,536 Get problem details: java-covariance
+2020-06-06 19:58:54,538 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:55,115 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-covariance HTTP/1.1" 200 3813
+2020-06-06 19:58:55,118 Get Problem Code: 75281766
+2020-06-06 19:58:55,120 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:55,637 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-covariance/submissions/75281766 HTTP/1.1" 200 1152
+2020-06-06 19:58:55,643 Get Challenge details: sha-256
+2020-06-06 19:58:55,643 Get problem details: sha-256
+2020-06-06 19:58:55,647 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:56,140 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/sha-256 HTTP/1.1" 200 6958
+2020-06-06 19:58:56,144 Get Problem Code: 75276282
+2020-06-06 19:58:56,148 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:58,126 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/sha-256/submissions/75276282 HTTP/1.1" 200 1325
+2020-06-06 19:58:58,130 Get Challenge details: java-md5
+2020-06-06 19:58:58,130 Get problem details: java-md5
+2020-06-06 19:58:58,132 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:58,654 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-md5 HTTP/1.1" 200 6484
+2020-06-06 19:58:58,657 Get Problem Code: 75275444
+2020-06-06 19:58:58,661 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:59,154 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-md5/submissions/75275444 HTTP/1.1" 200 1289
+2020-06-06 19:58:59,157 Get Challenge details: pattern-syntax-checker
+2020-06-06 19:58:59,158 Get problem details: pattern-syntax-checker
+2020-06-06 19:58:59,159 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:58:59,664 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/pattern-syntax-checker HTTP/1.1" 200 3679
+2020-06-06 19:58:59,667 Get Problem Code: 75268572
+2020-06-06 19:58:59,669 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:00,175 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/pattern-syntax-checker/submissions/75268572 HTTP/1.1" 200 1249
+2020-06-06 19:59:00,181 Get Challenge details: pattern-syntax-checker
+2020-06-06 19:59:00,181 Get problem details: pattern-syntax-checker
+2020-06-06 19:59:00,184 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:00,700 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/pattern-syntax-checker HTTP/1.1" 200 3679
+2020-06-06 19:59:00,702 Get Problem Code: 75268032
+2020-06-06 19:59:00,704 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:01,287 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/pattern-syntax-checker/submissions/75268032 HTTP/1.1" 200 1251
+2020-06-06 19:59:01,290 Get Challenge details: java-reflection-attributes
+2020-06-06 19:59:01,290 Get problem details: java-reflection-attributes
+2020-06-06 19:59:01,292 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:01,800 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-reflection-attributes HTTP/1.1" 200 4727
+2020-06-06 19:59:01,804 Get Problem Code: 75266461
+2020-06-06 19:59:01,808 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:02,343 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-reflection-attributes/submissions/75266461 HTTP/1.1" 200 1178
+2020-06-06 19:59:02,350 Get Challenge details: java-bigdecimal
+2020-06-06 19:59:02,350 Get problem details: java-bigdecimal
+2020-06-06 19:59:02,352 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:02,973 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-bigdecimal HTTP/1.1" 200 5691
+2020-06-06 19:59:02,976 Get Problem Code: 75257843
+2020-06-06 19:59:02,978 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:04,268 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-bigdecimal/submissions/75257843 HTTP/1.1" 200 1265
+2020-06-06 19:59:04,272 Get Challenge details: can-you-access
+2020-06-06 19:59:04,272 Get problem details: can-you-access
+2020-06-06 19:59:04,274 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:05,062 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/can-you-access HTTP/1.1" 200 5166
+2020-06-06 19:59:05,065 Get Problem Code: 75256771
+2020-06-06 19:59:05,067 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:05,862 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/can-you-access/submissions/75256771 HTTP/1.1" 200 1109
+2020-06-06 19:59:05,904 Get Challenge details: java-iterator
+2020-06-06 19:59:05,904 Get problem details: java-iterator
+2020-06-06 19:59:05,909 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:07,669 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-iterator HTTP/1.1" 200 4226
+2020-06-06 19:59:07,672 Get Problem Code: 75229218
+2020-06-06 19:59:07,674 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:08,395 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-iterator/submissions/75229218 HTTP/1.1" 200 1320
+2020-06-06 19:59:08,399 Get Challenge details: java-1d-array
+2020-06-06 19:59:08,399 Get problem details: java-1d-array
+2020-06-06 19:59:08,401 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:09,151 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-1d-array HTTP/1.1" 200 13439
+2020-06-06 19:59:09,165 Get Problem Code: 75229035
+2020-06-06 19:59:09,167 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:09,803 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-1d-array/submissions/75229035 HTTP/1.1" 200 1386
+2020-06-06 19:59:09,806 Get Challenge details: java-priority-queue
+2020-06-06 19:59:09,806 Get problem details: java-priority-queue
+2020-06-06 19:59:09,808 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:10,418 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-priority-queue HTTP/1.1" 200 9171
+2020-06-06 19:59:10,421 Get Problem Code: 75227797
+2020-06-06 19:59:10,423 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:10,949 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-priority-queue/submissions/75227797 HTTP/1.1" 200 1681
+2020-06-06 19:59:10,954 Get Challenge details: java-primality-test
+2020-06-06 19:59:10,954 Get problem details: java-primality-test
+2020-06-06 19:59:10,956 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:11,479 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-primality-test HTTP/1.1" 200 6687
+2020-06-06 19:59:11,484 Get Problem Code: 75189550
+2020-06-06 19:59:11,488 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:11,968 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-primality-test/submissions/75189550 HTTP/1.1" 200 1231
+2020-06-06 19:59:11,971 Get Challenge details: java-biginteger
+2020-06-06 19:59:11,971 Get problem details: java-biginteger
+2020-06-06 19:59:11,973 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:12,669 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-biginteger HTTP/1.1" 200 5690
+2020-06-06 19:59:12,672 Get Problem Code: 75188639
+2020-06-06 19:59:12,674 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:13,147 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-biginteger/submissions/75188639 HTTP/1.1" 200 1234
+2020-06-06 19:59:13,150 Get Challenge details: java-currency-formatter
+2020-06-06 19:59:13,150 Get problem details: java-currency-formatter
+2020-06-06 19:59:13,152 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:13,726 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-currency-formatter HTTP/1.1" 200 9240
+2020-06-06 19:59:13,730 Get Problem Code: 75187977
+2020-06-06 19:59:13,732 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:14,319 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-currency-formatter/submissions/75187977 HTTP/1.1" 200 1346
+2020-06-06 19:59:14,323 Get Challenge details: java-date-and-time
+2020-06-06 19:59:14,323 Get problem details: java-date-and-time
+2020-06-06 19:59:14,325 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:14,841 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-date-and-time HTTP/1.1" 200 13431
+2020-06-06 19:59:14,853 Get Problem Code: 75183840
+2020-06-06 19:59:14,855 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:15,349 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-date-and-time/submissions/75183840 HTTP/1.1" 200 1154
+2020-06-06 19:59:15,351 Get Challenge details: java-singleton
+2020-06-06 19:59:15,351 Get problem details: java-singleton
+2020-06-06 19:59:15,353 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:15,878 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-singleton HTTP/1.1" 200 4386
+2020-06-06 19:59:15,880 Get Problem Code: 75158331
+2020-06-06 19:59:15,882 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:17,189 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-singleton/submissions/75158331 HTTP/1.1" 200 1082
+2020-06-06 19:59:17,192 Get Challenge details: java-factory
+2020-06-06 19:59:17,192 Get problem details: java-factory
+2020-06-06 19:59:17,194 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:17,688 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-factory HTTP/1.1" 200 2650
+2020-06-06 19:59:17,692 Get Problem Code: 75156729
+2020-06-06 19:59:17,696 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:18,244 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-factory/submissions/75156729 HTTP/1.1" 200 985
+2020-06-06 19:59:18,248 Get Challenge details: java-factory
+2020-06-06 19:59:18,248 Get problem details: java-factory
+2020-06-06 19:59:18,252 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:18,880 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-factory HTTP/1.1" 200 2650
+2020-06-06 19:59:18,883 Get Problem Code: 75156555
+2020-06-06 19:59:18,888 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:19,393 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-factory/submissions/75156555 HTTP/1.1" 200 989
+2020-06-06 19:59:19,397 Get Challenge details: simple-addition-varargs
+2020-06-06 19:59:19,398 Get problem details: simple-addition-varargs
+2020-06-06 19:59:19,401 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:19,941 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-addition-varargs HTTP/1.1" 200 2571
+2020-06-06 19:59:19,944 Get Problem Code: 75154605
+2020-06-06 19:59:19,946 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:20,426 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-addition-varargs/submissions/75154605 HTTP/1.1" 200 1088
+2020-06-06 19:59:20,430 Get Challenge details: prime-checker
+2020-06-06 19:59:20,431 Get problem details: prime-checker
+2020-06-06 19:59:20,434 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:20,946 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/prime-checker HTTP/1.1" 200 2730
+2020-06-06 19:59:20,949 Get Problem Code: 75154206
+2020-06-06 19:59:20,951 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:21,474 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/prime-checker/submissions/75154206 HTTP/1.1" 200 1171
+2020-06-06 19:59:21,477 Get Challenge details: java-1d-array-introduction
+2020-06-06 19:59:21,477 Get problem details: java-1d-array-introduction
+2020-06-06 19:59:21,479 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:21,978 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-1d-array-introduction HTTP/1.1" 200 14231
+2020-06-06 19:59:21,986 Get Problem Code: 75152927
+2020-06-06 19:59:21,990 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:22,851 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-1d-array-introduction/submissions/75152927 HTTP/1.1" 200 1049
+2020-06-06 19:59:22,854 Get Challenge details: java-stack
+2020-06-06 19:59:22,854 Get problem details: java-stack
+2020-06-06 19:59:22,856 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:23,813 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-stack HTTP/1.1" 200 2411
+2020-06-06 19:59:23,815 Get Problem Code: 75129914
+2020-06-06 19:59:23,817 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:24,335 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-stack/submissions/75129914 HTTP/1.1" 200 1161
+2020-06-06 19:59:24,335 Get Challenge details: java-bitset
+2020-06-06 19:59:24,335 Get problem details: java-bitset
+2020-06-06 19:59:24,335 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:24,915 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-bitset HTTP/1.1" 200 27758
+2020-06-06 19:59:24,952 Get Problem Code: 75129137
+2020-06-06 19:59:24,955 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:25,437 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-bitset/submissions/75129137 HTTP/1.1" 200 1463
+2020-06-06 19:59:25,450 Get Challenge details: java-dequeue
+2020-06-06 19:59:25,450 Get problem details: java-dequeue
+2020-06-06 19:59:25,452 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:25,953 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-dequeue HTTP/1.1" 200 7500
+2020-06-06 19:59:25,957 Get Problem Code: 75126957
+2020-06-06 19:59:25,959 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:26,421 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-dequeue/submissions/75126957 HTTP/1.1" 200 1515
+2020-06-06 19:59:26,425 Get Challenge details: java-sort
+2020-06-06 19:59:26,425 Get problem details: java-sort
+2020-06-06 19:59:26,428 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:27,889 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-sort HTTP/1.1" 200 8077
+2020-06-06 19:59:27,892 Get Problem Code: 75124814
+2020-06-06 19:59:27,895 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:28,475 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-sort/submissions/75124814 HTTP/1.1" 200 1574
+2020-06-06 19:59:28,475 Get Challenge details: java-comparator
+2020-06-06 19:59:28,475 Get problem details: java-comparator
+2020-06-06 19:59:28,475 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:29,027 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-comparator HTTP/1.1" 200 6338
+2020-06-06 19:59:29,030 Get Problem Code: 75124272
+2020-06-06 19:59:29,032 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:29,553 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-comparator/submissions/75124272 HTTP/1.1" 200 1152
+2020-06-06 19:59:29,556 Get Challenge details: java-generics
+2020-06-06 19:59:29,556 Get problem details: java-generics
+2020-06-06 19:59:29,558 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:30,069 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-generics HTTP/1.1" 200 2194
+2020-06-06 19:59:30,071 Get Problem Code: 75122752
+2020-06-06 19:59:30,073 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:30,563 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-generics/submissions/75122752 HTTP/1.1" 200 1035
+2020-06-06 19:59:30,566 Get Challenge details: java-hashset
+2020-06-06 19:59:30,566 Get problem details: java-hashset
+2020-06-06 19:59:30,568 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:31,169 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-hashset HTTP/1.1" 200 8642
+2020-06-06 19:59:31,174 Get Problem Code: 75122524
+2020-06-06 19:59:31,178 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:31,669 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-hashset/submissions/75122524 HTTP/1.1" 200 1161
+2020-06-06 19:59:31,672 Get Challenge details: phone-book
+2020-06-06 19:59:31,672 Get problem details: phone-book
+2020-06-06 19:59:31,674 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:32,167 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/phone-book HTTP/1.1" 200 5246
+2020-06-06 19:59:32,171 Get Problem Code: 75090524
+2020-06-06 19:59:32,175 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:32,658 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/phone-book/submissions/75090524 HTTP/1.1" 200 1308
+2020-06-06 19:59:32,662 Get Challenge details: java-list
+2020-06-06 19:59:32,662 Get problem details: java-list
+2020-06-06 19:59:32,664 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:33,255 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-list HTTP/1.1" 200 9151
+2020-06-06 19:59:33,260 Get Problem Code: 75090049
+2020-06-06 19:59:33,262 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:33,740 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-list/submissions/75090049 HTTP/1.1" 200 1340
+2020-06-06 19:59:33,743 Get Challenge details: java-arraylist
+2020-06-06 19:59:33,743 Get problem details: java-arraylist
+2020-06-06 19:59:33,745 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:34,269 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-arraylist HTTP/1.1" 200 7251
+2020-06-06 19:59:34,272 Get Problem Code: 75079528
+2020-06-06 19:59:34,274 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:34,761 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-arraylist/submissions/75079528 HTTP/1.1" 200 1365
+2020-06-06 19:59:34,764 Get Challenge details: java-negative-subarray
+2020-06-06 19:59:34,765 Get problem details: java-negative-subarray
+2020-06-06 19:59:34,767 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:35,258 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-negative-subarray HTTP/1.1" 200 9591
+2020-06-06 19:59:35,275 Get Problem Code: 75078834
+2020-06-06 19:59:35,278 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:35,765 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-negative-subarray/submissions/75078834 HTTP/1.1" 200 1334
+2020-06-06 19:59:35,769 Get Challenge details: java-1d-array-introduction
+2020-06-06 19:59:35,769 Get problem details: java-1d-array-introduction
+2020-06-06 19:59:35,771 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:36,264 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-1d-array-introduction HTTP/1.1" 200 14231
+2020-06-06 19:59:36,277 Get Problem Code: 75072630
+2020-06-06 19:59:36,280 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:37,445 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-1d-array-introduction/submissions/75072630 HTTP/1.1" 200 1037
+2020-06-06 19:59:37,448 Get Challenge details: duplicate-word
+2020-06-06 19:59:37,448 Get problem details: duplicate-word
+2020-06-06 19:59:37,450 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:38,006 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/duplicate-word HTTP/1.1" 200 6181
+2020-06-06 19:59:38,010 Get Problem Code: 75058692
+2020-06-06 19:59:38,014 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:38,494 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/duplicate-word/submissions/75058692 HTTP/1.1" 200 1397
+2020-06-06 19:59:38,555 Get Challenge details: java-exception-handling
+2020-06-06 19:59:38,555 Get problem details: java-exception-handling
+2020-06-06 19:59:38,557 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:39,419 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-exception-handling HTTP/1.1" 200 12096
+2020-06-06 19:59:39,419 Get Problem Code: 75057634
+2020-06-06 19:59:39,419 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:39,920 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-exception-handling/submissions/75057634 HTTP/1.1" 200 1145
+2020-06-06 19:59:39,936 Get Challenge details: java-exception-handling-try-catch
+2020-06-06 19:59:39,936 Get problem details: java-exception-handling-try-catch
+2020-06-06 19:59:39,951 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:40,445 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-exception-handling-try-catch HTTP/1.1" 200 3982
+2020-06-06 19:59:40,447 Get Problem Code: 75056899
+2020-06-06 19:59:40,450 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:40,986 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-exception-handling-try-catch/submissions/75056899 HTTP/1.1" 200 1309
+2020-06-06 19:59:40,992 Get Challenge details: java-anagrams
+2020-06-06 19:59:40,993 Get problem details: java-anagrams
+2020-06-06 19:59:40,996 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:41,643 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-anagrams HTTP/1.1" 200 7941
+2020-06-06 19:59:41,659 Get Problem Code: 74977484
+2020-06-06 19:59:41,659 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:42,175 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-anagrams/submissions/74977484 HTTP/1.1" 200 1187
+2020-06-06 19:59:42,175 Get Challenge details: java-string-reverse
+2020-06-06 19:59:42,175 Get problem details: java-string-reverse
+2020-06-06 19:59:42,190 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:42,721 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-reverse HTTP/1.1" 200 3079
+2020-06-06 19:59:42,737 Get Problem Code: 74976725
+2020-06-06 19:59:42,737 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:43,327 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-reverse/submissions/74976725 HTTP/1.1" 200 1189
+2020-06-06 19:59:43,327 Get Challenge details: java-string-reverse
+2020-06-06 19:59:43,327 Get problem details: java-string-reverse
+2020-06-06 19:59:43,327 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:43,824 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-reverse HTTP/1.1" 200 3079
+2020-06-06 19:59:43,828 Get Problem Code: 74976711
+2020-06-06 19:59:43,830 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:44,344 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-reverse/submissions/74976711 HTTP/1.1" 200 1190
+2020-06-06 19:59:44,344 Get Challenge details: java-string-compare
+2020-06-06 19:59:44,344 Get problem details: java-string-compare
+2020-06-06 19:59:44,344 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:44,875 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-compare HTTP/1.1" 200 11959
+2020-06-06 19:59:44,891 Get Problem Code: 74976448
+2020-06-06 19:59:44,891 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:45,406 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-compare/submissions/74976448 HTTP/1.1" 200 1367
+2020-06-06 19:59:45,422 Get Challenge details: java-substring
+2020-06-06 19:59:45,422 Get problem details: java-substring
+2020-06-06 19:59:45,422 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:45,891 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-substring HTTP/1.1" 200 8756
+2020-06-06 19:59:45,891 Get Problem Code: 74960038
+2020-06-06 19:59:45,891 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:46,383 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-substring/submissions/74960038 HTTP/1.1" 200 1113
+2020-06-06 19:59:46,383 Get Challenge details: java-strings-introduction
+2020-06-06 19:59:46,383 Get problem details: java-strings-introduction
+2020-06-06 19:59:46,383 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:47,009 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-strings-introduction HTTP/1.1" 200 5075
+2020-06-06 19:59:47,009 Get Problem Code: 74959958
+2020-06-06 19:59:47,009 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:47,540 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-strings-introduction/submissions/74959958 HTTP/1.1" 200 1232
+2020-06-06 19:59:47,540 Get Challenge details: java-int-to-string
+2020-06-06 19:59:47,540 Get problem details: java-int-to-string
+2020-06-06 19:59:47,540 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:48,052 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-int-to-string HTTP/1.1" 200 3859
+2020-06-06 19:59:48,055 Get Problem Code: 74957737
+2020-06-06 19:59:48,057 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:48,543 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-int-to-string/submissions/74957737 HTTP/1.1" 200 984
+2020-06-06 19:59:48,543 Get Challenge details: java-static-initializer-block
+2020-06-06 19:59:48,543 Get problem details: java-static-initializer-block
+2020-06-06 19:59:48,543 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:49,059 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-static-initializer-block HTTP/1.1" 200 4580
+2020-06-06 19:59:49,059 Get Problem Code: 74957551
+2020-06-06 19:59:49,059 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:49,543 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-static-initializer-block/submissions/74957551 HTTP/1.1" 200 1145
+2020-06-06 19:59:49,543 Get Challenge details: java-end-of-file
+2020-06-06 19:59:49,543 Get problem details: java-end-of-file
+2020-06-06 19:59:49,543 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:50,074 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-end-of-file HTTP/1.1" 200 2749
+2020-06-06 19:59:50,076 Get Problem Code: 74815344
+2020-06-06 19:59:50,076 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:50,529 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-end-of-file/submissions/74815344 HTTP/1.1" 200 1210
+2020-06-06 19:59:50,544 Get Challenge details: java-datatypes
+2020-06-06 19:59:50,544 Get problem details: java-datatypes
+2020-06-06 19:59:50,544 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:51,045 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-datatypes HTTP/1.1" 200 9639
+2020-06-06 19:59:51,052 Get Problem Code: 74813004
+2020-06-06 19:59:51,055 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:51,702 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-datatypes/submissions/74813004 HTTP/1.1" 200 1314
+2020-06-06 19:59:51,702 Get Challenge details: java-loops
+2020-06-06 19:59:51,702 Get problem details: java-loops
+2020-06-06 19:59:51,702 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:52,302 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-loops HTTP/1.1" 200 12867
+2020-06-06 19:59:52,302 Get Problem Code: 74748490
+2020-06-06 19:59:52,318 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:53,005 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-loops/submissions/74748490 HTTP/1.1" 200 1220
+2020-06-06 19:59:53,021 Get Challenge details: java-instanceof-keyword
+2020-06-06 19:59:53,021 Get problem details: java-instanceof-keyword
+2020-06-06 19:59:53,021 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:53,507 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-instanceof-keyword HTTP/1.1" 200 4784
+2020-06-06 19:59:53,510 Get Problem Code: 74651701
+2020-06-06 19:59:53,512 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:54,307 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-instanceof-keyword/submissions/74651701 HTTP/1.1" 200 1419
+2020-06-06 19:59:54,307 Get Challenge details: java-method-overriding-2-super-keyword
+2020-06-06 19:59:54,307 Get problem details: java-method-overriding-2-super-keyword
+2020-06-06 19:59:54,307 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:54,841 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-method-overriding-2-super-keyword HTTP/1.1" 200 3905
+2020-06-06 19:59:54,841 Get Problem Code: 74650054
+2020-06-06 19:59:54,841 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:55,325 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-method-overriding-2-super-keyword/submissions/74650054 HTTP/1.1" 200 1000
+2020-06-06 19:59:55,325 Get Challenge details: java-method-overriding
+2020-06-06 19:59:55,325 Get problem details: java-method-overriding
+2020-06-06 19:59:55,325 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:55,814 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-method-overriding HTTP/1.1" 200 3432
+2020-06-06 19:59:55,816 Get Problem Code: 74644905
+2020-06-06 19:59:55,818 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:56,295 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-method-overriding/submissions/74644905 HTTP/1.1" 200 1054
+2020-06-06 19:59:56,311 Get Challenge details: java-interface
+2020-06-06 19:59:56,311 Get problem details: java-interface
+2020-06-06 19:59:56,311 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:56,803 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-interface HTTP/1.1" 200 2490
+2020-06-06 19:59:56,805 Get Problem Code: 74585547
+2020-06-06 19:59:56,807 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:57,318 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-interface/submissions/74585547 HTTP/1.1" 200 1120
+2020-06-06 19:59:57,333 Get Challenge details: java-abstract-class
+2020-06-06 19:59:57,333 Get problem details: java-abstract-class
+2020-06-06 19:59:57,333 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:57,863 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-abstract-class HTTP/1.1" 200 2487
+2020-06-06 19:59:57,865 Get Problem Code: 74585258
+2020-06-06 19:59:57,867 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:58,524 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-abstract-class/submissions/74585258 HTTP/1.1" 200 1057
+2020-06-06 19:59:58,528 Get Challenge details: java-inheritance-2
+2020-06-06 19:59:58,528 Get problem details: java-inheritance-2
+2020-06-06 19:59:58,530 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:58,997 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-inheritance-2 HTTP/1.1" 200 4415
+2020-06-06 19:59:58,997 Get Problem Code: 74584930
+2020-06-06 19:59:59,007 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 19:59:59,526 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-inheritance-2/submissions/74584930 HTTP/1.1" 200 1023
+2020-06-06 19:59:59,530 Get Challenge details: java-inheritance-1
+2020-06-06 19:59:59,531 Get problem details: java-inheritance-1
+2020-06-06 19:59:59,532 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:00,007 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-inheritance-1 HTTP/1.1" 200 2478
+2020-06-06 20:00:00,022 Get Problem Code: 74584660
+2020-06-06 20:00:00,022 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:00,560 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-inheritance-1/submissions/74584660 HTTP/1.1" 200 1018
+2020-06-06 20:00:00,576 Get Challenge details: java-loops-i
+2020-06-06 20:00:00,576 Get problem details: java-loops-i
+2020-06-06 20:00:00,576 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:01,345 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-loops-i HTTP/1.1" 200 7617
+2020-06-06 20:00:01,351 Get Problem Code: 74555644
+2020-06-06 20:00:01,355 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:02,141 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-loops-i/submissions/74555644 HTTP/1.1" 200 1217
+2020-06-06 20:00:02,147 Get Challenge details: java-output-formatting
+2020-06-06 20:00:02,148 Get problem details: java-output-formatting
+2020-06-06 20:00:02,151 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:03,023 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-output-formatting HTTP/1.1" 200 5087
+2020-06-06 20:00:03,023 Get Problem Code: 74555519
+2020-06-06 20:00:03,023 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:03,674 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-output-formatting/submissions/74555519 HTTP/1.1" 200 1175
+2020-06-06 20:00:03,679 Get Challenge details: java-stdin-stdout
+2020-06-06 20:00:03,680 Get problem details: java-stdin-stdout
+2020-06-06 20:00:03,684 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:04,181 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-stdin-stdout HTTP/1.1" 200 2574
+2020-06-06 20:00:04,184 Get Problem Code: 74555163
+2020-06-06 20:00:04,186 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:04,680 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-stdin-stdout/submissions/74555163 HTTP/1.1" 200 1177
+2020-06-06 20:00:04,683 Get Challenge details: java-if-else
+2020-06-06 20:00:04,683 Get problem details: java-if-else
+2020-06-06 20:00:04,686 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:05,208 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-if-else HTTP/1.1" 200 7142
+2020-06-06 20:00:05,211 Get Problem Code: 74554802
+2020-06-06 20:00:05,214 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:05,746 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-if-else/submissions/74554802 HTTP/1.1" 200 1259
+2020-06-06 20:00:05,751 Get Challenge details: java-stdin-and-stdout-1
+2020-06-06 20:00:05,752 Get problem details: java-stdin-and-stdout-1
+2020-06-06 20:00:05,755 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:07,399 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-stdin-and-stdout-1 HTTP/1.1" 200 4873
+2020-06-06 20:00:07,402 Get Problem Code: 74554616
+2020-06-06 20:00:07,405 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:07,875 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-stdin-and-stdout-1/submissions/74554616 HTTP/1.1" 200 1133
+2020-06-06 20:00:07,880 Get Challenge details: welcome-to-java
+2020-06-06 20:00:07,881 Get problem details: welcome-to-java
+2020-06-06 20:00:07,884 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:08,399 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/welcome-to-java HTTP/1.1" 200 2131
+2020-06-06 20:00:08,401 Get Problem Code: 74554557
+2020-06-06 20:00:08,403 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:08,981 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/welcome-to-java/submissions/74554557 HTTP/1.1" 200 1085
+2020-06-06 20:00:08,985 Get Challenge details: pangrams
+2020-06-06 20:00:08,986 Get problem details: pangrams
+2020-06-06 20:00:08,988 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:09,509 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/pangrams HTTP/1.1" 200 16289
+2020-06-06 20:00:09,526 Get Problem Code: 51350092
+2020-06-06 20:00:09,528 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:10,085 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/pangrams/submissions/51350092 HTTP/1.1" 200 1394
+2020-06-06 20:00:10,088 Get Challenge details: between-two-sets
+2020-06-06 20:00:10,089 Get problem details: between-two-sets
+2020-06-06 20:00:10,091 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:10,785 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/between-two-sets HTTP/1.1" 200 17702
+2020-06-06 20:00:10,792 Get Problem Code: 51348934
+2020-06-06 20:00:10,792 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:11,367 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/between-two-sets/submissions/51348934 HTTP/1.1" 200 1614
+2020-06-06 20:00:11,367 Get Challenge details: binary-search-tree-lowest-common-ancestor
+2020-06-06 20:00:11,367 Get problem details: binary-search-tree-lowest-common-ancestor
+2020-06-06 20:00:11,367 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:12,037 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-lowest-common-ancestor HTTP/1.1" 200 9973
+2020-06-06 20:00:12,043 Get Problem Code: 51341035
+2020-06-06 20:00:12,046 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:12,528 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-lowest-common-ancestor/submissions/51341035 HTTP/1.1" 200 1299
+2020-06-06 20:00:12,543 Get Challenge details: tree-level-order-traversal
+2020-06-06 20:00:12,543 Get problem details: tree-level-order-traversal
+2020-06-06 20:00:12,543 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:13,073 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-level-order-traversal HTTP/1.1" 200 4723
+2020-06-06 20:00:13,073 Get Problem Code: 51339973
+2020-06-06 20:00:13,089 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:13,574 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-level-order-traversal/submissions/51339973 HTTP/1.1" 200 1358
+2020-06-06 20:00:13,590 Get Challenge details: tree-top-view
+2020-06-06 20:00:13,590 Get problem details: tree-top-view
+2020-06-06 20:00:13,590 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:14,158 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-top-view HTTP/1.1" 200 4206
+2020-06-06 20:00:14,158 Get Problem Code: 51338909
+2020-06-06 20:00:14,158 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:14,685 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-top-view/submissions/51338909 HTTP/1.1" 200 1194
+2020-06-06 20:00:14,700 Get Challenge details: binary-search-tree-insertion
+2020-06-06 20:00:14,700 Get problem details: binary-search-tree-insertion
+2020-06-06 20:00:14,700 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:15,190 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-insertion HTTP/1.1" 200 3928
+2020-06-06 20:00:15,190 Get Problem Code: 51337719
+2020-06-06 20:00:15,190 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:15,896 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-insertion/submissions/51337719 HTTP/1.1" 200 1226
+2020-06-06 20:00:15,900 Get Challenge details: binary-search-tree-insertion
+2020-06-06 20:00:15,900 Get problem details: binary-search-tree-insertion
+2020-06-06 20:00:15,902 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:16,371 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-insertion HTTP/1.1" 200 3928
+2020-06-06 20:00:16,387 Get Problem Code: 51337693
+2020-06-06 20:00:16,387 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:16,876 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-insertion/submissions/51337693 HTTP/1.1" 200 1230
+2020-06-06 20:00:16,876 Get Challenge details: arrays-ds
+2020-06-06 20:00:16,876 Get problem details: arrays-ds
+2020-06-06 20:00:16,876 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:17,400 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/arrays-ds HTTP/1.1" 200 14984
+2020-06-06 20:00:17,413 Get Problem Code: 51336410
+2020-06-06 20:00:17,417 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:17,890 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/arrays-ds/submissions/51336410 HTTP/1.1" 200 1222
+2020-06-06 20:00:17,896 Get Challenge details: balanced-brackets
+2020-06-06 20:00:17,896 Get problem details: balanced-brackets
+2020-06-06 20:00:17,900 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:18,445 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/balanced-brackets HTTP/1.1" 200 9715
+2020-06-06 20:00:18,453 Get Problem Code: 51183946
+2020-06-06 20:00:18,458 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:18,921 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/balanced-brackets/submissions/51183946 HTTP/1.1" 200 1483
+2020-06-06 20:00:18,921 Get Challenge details: tree-height-of-a-binary-tree
+2020-06-06 20:00:18,921 Get problem details: tree-height-of-a-binary-tree
+2020-06-06 20:00:18,921 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:19,464 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-height-of-a-binary-tree HTTP/1.1" 200 9809
+2020-06-06 20:00:19,464 Get Problem Code: 51107465
+2020-06-06 20:00:19,480 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:20,018 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-height-of-a-binary-tree/submissions/51107465 HTTP/1.1" 200 1216
+2020-06-06 20:00:20,040 Get Challenge details: find-the-merge-point-of-two-joined-linked-lists
+2020-06-06 20:00:20,040 Get problem details: find-the-merge-point-of-two-joined-linked-lists
+2020-06-06 20:00:20,041 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:20,607 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/find-the-merge-point-of-two-joined-linked-lists HTTP/1.1" 200 12474
+2020-06-06 20:00:20,614 Get Problem Code: 51101657
+2020-06-06 20:00:20,618 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:21,200 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/find-the-merge-point-of-two-joined-linked-lists/submissions/51101657 HTTP/1.1" 200 1333
+2020-06-06 20:00:21,205 Get Challenge details: detect-whether-a-linked-list-contains-a-cycle
+2020-06-06 20:00:21,205 Get problem details: detect-whether-a-linked-list-contains-a-cycle
+2020-06-06 20:00:21,207 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:21,749 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/detect-whether-a-linked-list-contains-a-cycle HTTP/1.1" 200 10821
+2020-06-06 20:00:21,753 Get Problem Code: 51101432
+2020-06-06 20:00:21,756 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:22,225 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/detect-whether-a-linked-list-contains-a-cycle/submissions/51101432 HTTP/1.1" 200 1292
+2020-06-06 20:00:22,240 Get Challenge details: delete-duplicate-value-nodes-from-a-sorted-linked-list
+2020-06-06 20:00:22,240 Get problem details: delete-duplicate-value-nodes-from-a-sorted-linked-list
+2020-06-06 20:00:22,240 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:22,803 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list HTTP/1.1" 200 16627
+2020-06-06 20:00:22,820 Get Problem Code: 51100792
+2020-06-06 20:00:22,822 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:23,372 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/submissions/51100792 HTTP/1.1" 200 1217
+2020-06-06 20:00:23,372 Get Challenge details: get-the-value-of-the-node-at-a-specific-position-from-the-tail
+2020-06-06 20:00:23,372 Get problem details: get-the-value-of-the-node-at-a-specific-position-from-the-tail
+2020-06-06 20:00:23,372 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:24,208 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail HTTP/1.1" 200 22327
+2020-06-06 20:00:24,255 Get Problem Code: 51100033
+2020-06-06 20:00:24,255 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:24,944 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/submissions/51100033 HTTP/1.1" 200 1382
+2020-06-06 20:00:24,948 Get Challenge details: merge-two-sorted-linked-lists
+2020-06-06 20:00:24,948 Get problem details: merge-two-sorted-linked-lists
+2020-06-06 20:00:24,951 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:25,497 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/merge-two-sorted-linked-lists HTTP/1.1" 200 10671
+2020-06-06 20:00:25,497 Get Problem Code: 51099601
+2020-06-06 20:00:25,497 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:26,114 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/merge-two-sorted-linked-lists/submissions/51099601 HTTP/1.1" 200 1315
+2020-06-06 20:00:26,114 Get Challenge details: compare-two-linked-lists
+2020-06-06 20:00:26,114 Get problem details: compare-two-linked-lists
+2020-06-06 20:00:26,114 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:26,622 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/compare-two-linked-lists HTTP/1.1" 200 10203
+2020-06-06 20:00:26,653 Get Problem Code: 51099050
+2020-06-06 20:00:26,653 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:27,166 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/compare-two-linked-lists/submissions/51099050 HTTP/1.1" 200 1318
+2020-06-06 20:00:27,166 Get Challenge details: reverse-a-linked-list
+2020-06-06 20:00:27,166 Get problem details: reverse-a-linked-list
+2020-06-06 20:00:27,181 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:27,720 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reverse-a-linked-list HTTP/1.1" 200 18411
+2020-06-06 20:00:27,736 Get Problem Code: 51098731
+2020-06-06 20:00:27,736 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:28,294 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reverse-a-linked-list/submissions/51098731 HTTP/1.1" 200 1422
+2020-06-06 20:00:28,294 Get Challenge details: print-the-elements-of-a-linked-list-in-reverse
+2020-06-06 20:00:28,294 Get problem details: print-the-elements-of-a-linked-list-in-reverse
+2020-06-06 20:00:28,294 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:28,795 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/print-the-elements-of-a-linked-list-in-reverse HTTP/1.1" 200 16060
+2020-06-06 20:00:28,819 Get Problem Code: 51087184
+2020-06-06 20:00:28,821 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:29,488 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/print-the-elements-of-a-linked-list-in-reverse/submissions/51087184 HTTP/1.1" 200 1303
+2020-06-06 20:00:29,504 Get Challenge details: delete-a-node-from-a-linked-list
+2020-06-06 20:00:29,504 Get problem details: delete-a-node-from-a-linked-list
+2020-06-06 20:00:29,504 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:30,147 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/delete-a-node-from-a-linked-list HTTP/1.1" 200 17135
+2020-06-06 20:00:30,162 Get Problem Code: 51086906
+2020-06-06 20:00:30,162 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:30,661 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/delete-a-node-from-a-linked-list/submissions/51086906 HTTP/1.1" 200 1387
+2020-06-06 20:00:30,661 Get Challenge details: insert-a-node-at-a-specific-position-in-a-linked-list
+2020-06-06 20:00:30,661 Get problem details: insert-a-node-at-a-specific-position-in-a-linked-list
+2020-06-06 20:00:30,661 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:31,205 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-a-specific-position-in-a-linked-list HTTP/1.1" 200 24128
+2020-06-06 20:00:31,245 Get Problem Code: 51086505
+2020-06-06 20:00:31,247 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:31,900 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/submissions/51086505 HTTP/1.1" 200 1368
+2020-06-06 20:00:31,904 Get Challenge details: insert-a-node-at-the-head-of-a-linked-list
+2020-06-06 20:00:31,904 Get problem details: insert-a-node-at-the-head-of-a-linked-list
+2020-06-06 20:00:31,907 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:32,491 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-the-head-of-a-linked-list HTTP/1.1" 200 8523
+2020-06-06 20:00:32,494 Get Problem Code: 51082808
+2020-06-06 20:00:32,497 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:33,123 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-the-head-of-a-linked-list/submissions/51082808 HTTP/1.1" 200 1286
+2020-06-06 20:00:33,123 Get Challenge details: insert-a-node-at-the-tail-of-a-linked-list
+2020-06-06 20:00:33,123 Get problem details: insert-a-node-at-the-tail-of-a-linked-list
+2020-06-06 20:00:33,123 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:33,628 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-the-tail-of-a-linked-list HTTP/1.1" 200 8436
+2020-06-06 20:00:33,632 Get Problem Code: 51082752
+2020-06-06 20:00:33,634 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:34,148 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-the-tail-of-a-linked-list/submissions/51082752 HTTP/1.1" 200 1323
+2020-06-06 20:00:34,151 Get Challenge details: tree-postorder-traversal
+2020-06-06 20:00:34,152 Get problem details: tree-postorder-traversal
+2020-06-06 20:00:34,154 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:34,673 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-postorder-traversal HTTP/1.1" 200 4751
+2020-06-06 20:00:34,689 Get Problem Code: 50591536
+2020-06-06 20:00:34,689 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:35,168 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-postorder-traversal/submissions/50591536 HTTP/1.1" 200 1183
+2020-06-06 20:00:35,168 Get Challenge details: tree-preorder-traversal
+2020-06-06 20:00:35,168 Get problem details: tree-preorder-traversal
+2020-06-06 20:00:35,175 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:35,711 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-preorder-traversal HTTP/1.1" 200 5335
+2020-06-06 20:00:35,713 Get Problem Code: 50591284
+2020-06-06 20:00:35,715 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:36,207 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-preorder-traversal/submissions/50591284 HTTP/1.1" 200 1172
+2020-06-06 20:00:36,211 Get Challenge details: maxsubarray
+2020-06-06 20:00:36,211 Get problem details: maxsubarray
+2020-06-06 20:00:36,212 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:36,741 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/maxsubarray HTTP/1.1" 200 15744
+2020-06-06 20:00:36,758 Get Problem Code: 50502294
+2020-06-06 20:00:36,760 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:37,336 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/maxsubarray/submissions/50502294 HTTP/1.1" 200 1441
+2020-06-06 20:00:37,352 Get Challenge details: print-the-elements-of-a-linked-list
+2020-06-06 20:00:37,352 Get problem details: print-the-elements-of-a-linked-list
+2020-06-06 20:00:37,352 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:37,861 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/print-the-elements-of-a-linked-list HTTP/1.1" 200 13454
+2020-06-06 20:00:37,870 Get Problem Code: 50122070
+2020-06-06 20:00:37,873 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:38,460 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/print-the-elements-of-a-linked-list/submissions/50122070 HTTP/1.1" 200 1318
+2020-06-06 20:00:38,460 Get Challenge details: linkedin-practice-array-left-rotation
+2020-06-06 20:00:38,460 Get problem details: linkedin-practice-array-left-rotation
+2020-06-06 20:00:38,460 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:38,979 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-array-left-rotation HTTP/1.1" 200 8367
+2020-06-06 20:00:38,984 Get Problem Code: 49589201
+2020-06-06 20:00:38,987 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:39,480 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-array-left-rotation/submissions/49589201 HTTP/1.1" 200 1166
+2020-06-06 20:00:39,483 Get Challenge details: linkedin-practice-dictionaries-and-maps
+2020-06-06 20:00:39,483 Get problem details: linkedin-practice-dictionaries-and-maps
+2020-06-06 20:00:39,485 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:40,000 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-dictionaries-and-maps HTTP/1.1" 200 18196
+2020-06-06 20:00:40,017 Get Problem Code: 49586968
+2020-06-06 20:00:40,019 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:40,504 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-dictionaries-and-maps/submissions/49586968 HTTP/1.1" 200 1303
+2020-06-06 20:00:40,520 Get Challenge details: linkedin-practice-nested-logic
+2020-06-06 20:00:40,520 Get problem details: linkedin-practice-nested-logic
+2020-06-06 20:00:40,520 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:41,061 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-nested-logic HTTP/1.1" 200 29395
+2020-06-06 20:00:41,111 Get Problem Code: 49585734
+2020-06-06 20:00:41,115 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:41,589 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-nested-logic/submissions/49585734 HTTP/1.1" 200 1184
+2020-06-06 20:00:41,592 Get Challenge details: linkedin-practice-bitwise-and
+2020-06-06 20:00:41,592 Get problem details: linkedin-practice-bitwise-and
+2020-06-06 20:00:41,594 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:42,130 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-bitwise-and HTTP/1.1" 200 21464
+2020-06-06 20:00:42,150 Get Problem Code: 49585265
+2020-06-06 20:00:42,152 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:43,018 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-bitwise-and/submissions/49585265 HTTP/1.1" 200 1233
+2020-06-06 20:00:43,018 Get Challenge details: linkedin-practice-binary-numbers
+2020-06-06 20:00:43,018 Get problem details: linkedin-practice-binary-numbers
+2020-06-06 20:00:43,030 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:43,567 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-binary-numbers HTTP/1.1" 200 9807
+2020-06-06 20:00:43,571 Get Problem Code: 49584782
+2020-06-06 20:00:43,571 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:44,066 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-binary-numbers/submissions/49584782 HTTP/1.1" 200 1309
+2020-06-06 20:00:44,087 Get Challenge details: linkedin-practice-divisible-sum-pairs
+2020-06-06 20:00:44,087 Get problem details: linkedin-practice-divisible-sum-pairs
+2020-06-06 20:00:44,087 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:44,668 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-divisible-sum-pairs HTTP/1.1" 200 13871
+2020-06-06 20:00:44,683 Get Problem Code: 35613215
+2020-06-06 20:00:44,683 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:45,202 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-divisible-sum-pairs/submissions/35613215 HTTP/1.1" 200 1213
+2020-06-06 20:00:45,202 Get Challenge details: ctci-array-left-rotation
+2020-06-06 20:00:45,202 Get problem details: ctci-array-left-rotation
+2020-06-06 20:00:45,202 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:45,836 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/ctci-array-left-rotation HTTP/1.1" 200 15036
+2020-06-06 20:00:45,852 Get Problem Code: 34501451
+2020-06-06 20:00:45,852 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:46,419 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/ctci-array-left-rotation/submissions/34501451 HTTP/1.1" 200 1282
+2020-06-06 20:00:46,426 Get Challenge details: fibonacci-modified
+2020-06-06 20:00:46,426 Get problem details: fibonacci-modified
+2020-06-06 20:00:46,430 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:46,967 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/fibonacci-modified HTTP/1.1" 200 17097
+2020-06-06 20:00:46,986 Get Problem Code: 27540268
+2020-06-06 20:00:46,989 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:47,471 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/fibonacci-modified/submissions/27540268 HTTP/1.1" 200 1310
+2020-06-06 20:00:47,503 Get Challenge details: alternating-characters
+2020-06-06 20:00:47,503 Get problem details: alternating-characters
+2020-06-06 20:00:47,503 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:48,119 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/alternating-characters HTTP/1.1" 200 28404
+2020-06-06 20:00:48,152 Get Problem Code: 27456576
+2020-06-06 20:00:48,152 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:48,804 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/alternating-characters/submissions/27456576 HTTP/1.1" 200 1333
+2020-06-06 20:00:48,807 Get Challenge details: beautiful-binary-string
+2020-06-06 20:00:48,808 Get problem details: beautiful-binary-string
+2020-06-06 20:00:48,810 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:49,417 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/beautiful-binary-string HTTP/1.1" 200 14349
+2020-06-06 20:00:49,427 Get Problem Code: 27456257
+2020-06-06 20:00:49,429 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:50,069 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/beautiful-binary-string/submissions/27456257 HTTP/1.1" 200 1376
+2020-06-06 20:00:50,072 Get Challenge details: reduced-string
+2020-06-06 20:00:50,073 Get problem details: reduced-string
+2020-06-06 20:00:50,074 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:50,625 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reduced-string HTTP/1.1" 200 8874
+2020-06-06 20:00:50,628 Get Problem Code: 27412687
+2020-06-06 20:00:50,631 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:51,117 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reduced-string/submissions/27412687 HTTP/1.1" 200 1275
+2020-06-06 20:00:51,120 Get Challenge details: a-very-big-sum
+2020-06-06 20:00:51,120 Get problem details: a-very-big-sum
+2020-06-06 20:00:51,120 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:51,636 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/a-very-big-sum HTTP/1.1" 200 12894
+2020-06-06 20:00:51,652 Get Problem Code: 27395622
+2020-06-06 20:00:51,652 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:52,302 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/a-very-big-sum/submissions/27395622 HTTP/1.1" 200 1152
+2020-06-06 20:00:52,302 Get Challenge details: compare-the-triplets
+2020-06-06 20:00:52,302 Get problem details: compare-the-triplets
+2020-06-06 20:00:52,302 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:52,883 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/compare-the-triplets HTTP/1.1" 200 22589
+2020-06-06 20:00:52,914 Get Problem Code: 27395516
+2020-06-06 20:00:52,930 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:53,446 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/compare-the-triplets/submissions/27395516 HTTP/1.1" 200 1299
+2020-06-06 20:00:53,478 Get Challenge details: simple-array-sum
+2020-06-06 20:00:53,478 Get problem details: simple-array-sum
+2020-06-06 20:00:53,478 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:54,513 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum HTTP/1.1" 200 11570
+2020-06-06 20:00:54,651 Get Problem Code: 27395273
+2020-06-06 20:00:54,651 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:55,386 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum/submissions/27395273 HTTP/1.1" 200 1155
+2020-06-06 20:00:55,386 Get Challenge details: simple-array-sum
+2020-06-06 20:00:55,386 Get problem details: simple-array-sum
+2020-06-06 20:00:55,386 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:56,649 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum HTTP/1.1" 200 11570
+2020-06-06 20:00:56,680 Get Problem Code: 27395085
+2020-06-06 20:00:56,682 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:57,565 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum/submissions/27395085 HTTP/1.1" 200 1158
+2020-06-06 20:00:57,570 Get Challenge details: simple-array-sum
+2020-06-06 20:00:57,570 Get problem details: simple-array-sum
+2020-06-06 20:00:57,575 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:58,519 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum HTTP/1.1" 200 11570
+2020-06-06 20:00:58,537 Get Problem Code: 27395006
+2020-06-06 20:00:58,537 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:59,116 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum/submissions/27395006 HTTP/1.1" 200 1157
+2020-06-06 20:00:59,119 Get Challenge details: solve-me-first
+2020-06-06 20:00:59,119 Get problem details: solve-me-first
+2020-06-06 20:00:59,122 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:00:59,620 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/solve-me-first HTTP/1.1" 200 14321
+2020-06-06 20:00:59,635 Get Problem Code: 27394901
+2020-06-06 20:00:59,635 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:00,191 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/solve-me-first/submissions/27394901 HTTP/1.1" 200 1165
+2020-06-06 20:01:00,197 Get Challenge details: camelcase
+2020-06-06 20:01:00,197 Get problem details: camelcase
+2020-06-06 20:01:00,200 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:00,718 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/camelcase HTTP/1.1" 200 11297
+2020-06-06 20:01:00,724 Get Problem Code: 25065842
+2020-06-06 20:01:00,726 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:01,267 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/camelcase/submissions/25065842 HTTP/1.1" 200 1334
+2020-06-06 20:01:01,272 Get Challenge details: reduced-string
+2020-06-06 20:01:01,272 Get problem details: reduced-string
+2020-06-06 20:01:01,276 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:01,777 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reduced-string HTTP/1.1" 200 8873
+2020-06-06 20:01:01,782 Get Problem Code: 25065358
+2020-06-06 20:01:01,786 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:02,337 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reduced-string/submissions/25065358 HTTP/1.1" 200 1359
+2020-06-06 20:01:02,353 Get Challenge details: java-anagrams
+2020-06-06 20:01:02,353 Get problem details: java-anagrams
+2020-06-06 20:01:02,353 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:03,217 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-anagrams HTTP/1.1" 200 7941
+2020-06-06 20:01:03,232 Get Problem Code: 74977484
+2020-06-06 20:01:03,232 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:03,807 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-anagrams/submissions/74977484 HTTP/1.1" 200 1187
+2020-06-06 20:01:03,811 Get Challenge details: java-string-reverse
+2020-06-06 20:01:03,811 Get problem details: java-string-reverse
+2020-06-06 20:01:03,813 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:04,713 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-reverse HTTP/1.1" 200 3079
+2020-06-06 20:01:04,729 Get Problem Code: 74976725
+2020-06-06 20:01:04,729 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:05,231 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-reverse/submissions/74976725 HTTP/1.1" 200 1189
+2020-06-06 20:01:05,231 Get Challenge details: java-string-reverse
+2020-06-06 20:01:05,231 Get problem details: java-string-reverse
+2020-06-06 20:01:05,231 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:05,701 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-reverse HTTP/1.1" 200 3079
+2020-06-06 20:01:05,716 Get Problem Code: 74976711
+2020-06-06 20:01:05,720 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:06,315 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-reverse/submissions/74976711 HTTP/1.1" 200 1190
+2020-06-06 20:01:06,318 Get Challenge details: java-string-compare
+2020-06-06 20:01:06,318 Get problem details: java-string-compare
+2020-06-06 20:01:06,320 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:06,912 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-compare HTTP/1.1" 200 11959
+2020-06-06 20:01:06,922 Get Problem Code: 74976448
+2020-06-06 20:01:06,924 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:07,384 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-string-compare/submissions/74976448 HTTP/1.1" 200 1367
+2020-06-06 20:01:07,384 Get Challenge details: java-substring
+2020-06-06 20:01:07,384 Get problem details: java-substring
+2020-06-06 20:01:07,384 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:07,919 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-substring HTTP/1.1" 200 8757
+2020-06-06 20:01:07,922 Get Problem Code: 74960038
+2020-06-06 20:01:07,924 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:09,919 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-substring/submissions/74960038 HTTP/1.1" 200 1113
+2020-06-06 20:01:09,934 Get Challenge details: java-strings-introduction
+2020-06-06 20:01:09,934 Get problem details: java-strings-introduction
+2020-06-06 20:01:09,934 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:10,643 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-strings-introduction HTTP/1.1" 200 5075
+2020-06-06 20:01:10,643 Get Problem Code: 74959958
+2020-06-06 20:01:10,658 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:11,126 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-strings-introduction/submissions/74959958 HTTP/1.1" 200 1232
+2020-06-06 20:01:11,142 Get Challenge details: java-int-to-string
+2020-06-06 20:01:11,142 Get problem details: java-int-to-string
+2020-06-06 20:01:11,142 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:11,668 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-int-to-string HTTP/1.1" 200 3862
+2020-06-06 20:01:11,668 Get Problem Code: 74957737
+2020-06-06 20:01:11,668 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:12,276 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-int-to-string/submissions/74957737 HTTP/1.1" 200 984
+2020-06-06 20:01:12,293 Get Challenge details: java-static-initializer-block
+2020-06-06 20:01:12,293 Get problem details: java-static-initializer-block
+2020-06-06 20:01:12,296 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:12,899 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-static-initializer-block HTTP/1.1" 200 4580
+2020-06-06 20:01:12,899 Get Problem Code: 74957551
+2020-06-06 20:01:12,899 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:13,398 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-static-initializer-block/submissions/74957551 HTTP/1.1" 200 1145
+2020-06-06 20:01:13,398 Get Challenge details: java-end-of-file
+2020-06-06 20:01:13,398 Get problem details: java-end-of-file
+2020-06-06 20:01:13,398 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:13,878 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-end-of-file HTTP/1.1" 200 2749
+2020-06-06 20:01:13,882 Get Problem Code: 74815344
+2020-06-06 20:01:13,887 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:14,768 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-end-of-file/submissions/74815344 HTTP/1.1" 200 1210
+2020-06-06 20:01:14,768 Get Challenge details: java-datatypes
+2020-06-06 20:01:14,768 Get problem details: java-datatypes
+2020-06-06 20:01:14,784 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:15,353 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-datatypes HTTP/1.1" 200 9638
+2020-06-06 20:01:15,359 Get Problem Code: 74813004
+2020-06-06 20:01:15,363 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:16,165 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-datatypes/submissions/74813004 HTTP/1.1" 200 1314
+2020-06-06 20:01:16,165 Get Challenge details: java-loops
+2020-06-06 20:01:16,165 Get problem details: java-loops
+2020-06-06 20:01:16,165 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:16,700 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-loops HTTP/1.1" 200 12867
+2020-06-06 20:01:16,716 Get Problem Code: 74748490
+2020-06-06 20:01:16,716 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:17,229 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-loops/submissions/74748490 HTTP/1.1" 200 1220
+2020-06-06 20:01:17,229 Get Challenge details: java-instanceof-keyword
+2020-06-06 20:01:17,229 Get problem details: java-instanceof-keyword
+2020-06-06 20:01:17,244 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:17,783 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-instanceof-keyword HTTP/1.1" 200 4784
+2020-06-06 20:01:17,783 Get Problem Code: 74651701
+2020-06-06 20:01:17,783 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:18,283 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-instanceof-keyword/submissions/74651701 HTTP/1.1" 200 1419
+2020-06-06 20:01:18,298 Get Challenge details: java-method-overriding-2-super-keyword
+2020-06-06 20:01:18,298 Get problem details: java-method-overriding-2-super-keyword
+2020-06-06 20:01:18,298 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:18,781 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-method-overriding-2-super-keyword HTTP/1.1" 200 3905
+2020-06-06 20:01:18,784 Get Problem Code: 74650054
+2020-06-06 20:01:18,787 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:19,251 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-method-overriding-2-super-keyword/submissions/74650054 HTTP/1.1" 200 1000
+2020-06-06 20:01:19,251 Get Challenge details: java-method-overriding
+2020-06-06 20:01:19,251 Get problem details: java-method-overriding
+2020-06-06 20:01:19,251 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:19,756 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-method-overriding HTTP/1.1" 200 3432
+2020-06-06 20:01:19,759 Get Problem Code: 74644905
+2020-06-06 20:01:19,762 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:21,617 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-method-overriding/submissions/74644905 HTTP/1.1" 200 1054
+2020-06-06 20:01:21,620 Get Challenge details: java-interface
+2020-06-06 20:01:21,620 Get problem details: java-interface
+2020-06-06 20:01:21,623 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:22,101 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-interface HTTP/1.1" 200 2490
+2020-06-06 20:01:22,104 Get Problem Code: 74585547
+2020-06-06 20:01:22,107 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:22,623 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-interface/submissions/74585547 HTTP/1.1" 200 1120
+2020-06-06 20:01:22,626 Get Challenge details: java-abstract-class
+2020-06-06 20:01:22,626 Get problem details: java-abstract-class
+2020-06-06 20:01:22,628 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:23,180 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-abstract-class HTTP/1.1" 200 2487
+2020-06-06 20:01:23,182 Get Problem Code: 74585258
+2020-06-06 20:01:23,184 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:23,673 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-abstract-class/submissions/74585258 HTTP/1.1" 200 1057
+2020-06-06 20:01:23,675 Get Challenge details: java-inheritance-2
+2020-06-06 20:01:23,675 Get problem details: java-inheritance-2
+2020-06-06 20:01:23,678 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:24,177 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-inheritance-2 HTTP/1.1" 200 4415
+2020-06-06 20:01:24,179 Get Problem Code: 74584930
+2020-06-06 20:01:24,181 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:24,663 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-inheritance-2/submissions/74584930 HTTP/1.1" 200 1023
+2020-06-06 20:01:24,663 Get Challenge details: java-inheritance-1
+2020-06-06 20:01:24,663 Get problem details: java-inheritance-1
+2020-06-06 20:01:24,663 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:25,159 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-inheritance-1 HTTP/1.1" 200 2478
+2020-06-06 20:01:25,162 Get Problem Code: 74584660
+2020-06-06 20:01:25,164 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:25,741 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-inheritance-1/submissions/74584660 HTTP/1.1" 200 1018
+2020-06-06 20:01:25,741 Get Challenge details: java-loops-i
+2020-06-06 20:01:25,741 Get problem details: java-loops-i
+2020-06-06 20:01:25,741 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:26,234 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-loops-i HTTP/1.1" 200 7617
+2020-06-06 20:01:26,234 Get Problem Code: 74555644
+2020-06-06 20:01:26,234 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:26,725 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-loops-i/submissions/74555644 HTTP/1.1" 200 1217
+2020-06-06 20:01:26,740 Get Challenge details: java-output-formatting
+2020-06-06 20:01:26,740 Get problem details: java-output-formatting
+2020-06-06 20:01:26,740 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:27,268 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-output-formatting HTTP/1.1" 200 5087
+2020-06-06 20:01:27,272 Get Problem Code: 74555519
+2020-06-06 20:01:27,274 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:28,033 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-output-formatting/submissions/74555519 HTTP/1.1" 200 1175
+2020-06-06 20:01:28,036 Get Challenge details: java-stdin-stdout
+2020-06-06 20:01:28,036 Get problem details: java-stdin-stdout
+2020-06-06 20:01:28,038 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:28,565 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-stdin-stdout HTTP/1.1" 200 2575
+2020-06-06 20:01:28,569 Get Problem Code: 74555163
+2020-06-06 20:01:28,572 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:29,207 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-stdin-stdout/submissions/74555163 HTTP/1.1" 200 1177
+2020-06-06 20:01:29,207 Get Challenge details: java-if-else
+2020-06-06 20:01:29,207 Get problem details: java-if-else
+2020-06-06 20:01:29,207 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:29,705 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-if-else HTTP/1.1" 200 7142
+2020-06-06 20:01:29,708 Get Problem Code: 74554802
+2020-06-06 20:01:29,710 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:30,348 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-if-else/submissions/74554802 HTTP/1.1" 200 1259
+2020-06-06 20:01:30,348 Get Challenge details: java-stdin-and-stdout-1
+2020-06-06 20:01:30,348 Get problem details: java-stdin-and-stdout-1
+2020-06-06 20:01:30,348 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:30,868 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-stdin-and-stdout-1 HTTP/1.1" 200 4873
+2020-06-06 20:01:30,884 Get Problem Code: 74554616
+2020-06-06 20:01:30,884 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:31,492 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/java-stdin-and-stdout-1/submissions/74554616 HTTP/1.1" 200 1133
+2020-06-06 20:01:31,508 Get Challenge details: welcome-to-java
+2020-06-06 20:01:31,508 Get problem details: welcome-to-java
+2020-06-06 20:01:31,508 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:32,004 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/welcome-to-java HTTP/1.1" 200 2132
+2020-06-06 20:01:32,006 Get Problem Code: 74554557
+2020-06-06 20:01:32,008 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:33,422 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/welcome-to-java/submissions/74554557 HTTP/1.1" 200 1085
+2020-06-06 20:01:33,437 Get Challenge details: pangrams
+2020-06-06 20:01:33,437 Get problem details: pangrams
+2020-06-06 20:01:33,437 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:34,068 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/pangrams HTTP/1.1" 200 16288
+2020-06-06 20:01:34,068 Get Problem Code: 51350092
+2020-06-06 20:01:34,068 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:34,583 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/pangrams/submissions/51350092 HTTP/1.1" 200 1395
+2020-06-06 20:01:34,583 Get Challenge details: between-two-sets
+2020-06-06 20:01:34,583 Get problem details: between-two-sets
+2020-06-06 20:01:34,598 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:35,228 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/between-two-sets HTTP/1.1" 200 17700
+2020-06-06 20:01:35,244 Get Problem Code: 51348934
+2020-06-06 20:01:35,244 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:35,818 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/between-two-sets/submissions/51348934 HTTP/1.1" 200 1617
+2020-06-06 20:01:35,834 Get Challenge details: binary-search-tree-lowest-common-ancestor
+2020-06-06 20:01:35,834 Get problem details: binary-search-tree-lowest-common-ancestor
+2020-06-06 20:01:35,836 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:36,615 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-lowest-common-ancestor HTTP/1.1" 200 9973
+2020-06-06 20:01:36,615 Get Problem Code: 51341035
+2020-06-06 20:01:36,615 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:37,176 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-lowest-common-ancestor/submissions/51341035 HTTP/1.1" 200 1297
+2020-06-06 20:01:37,176 Get Challenge details: tree-level-order-traversal
+2020-06-06 20:01:37,176 Get problem details: tree-level-order-traversal
+2020-06-06 20:01:37,176 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:37,696 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-level-order-traversal HTTP/1.1" 200 4723
+2020-06-06 20:01:37,698 Get Problem Code: 51339973
+2020-06-06 20:01:37,702 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:38,177 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-level-order-traversal/submissions/51339973 HTTP/1.1" 200 1340
+2020-06-06 20:01:38,193 Get Challenge details: tree-top-view
+2020-06-06 20:01:38,193 Get problem details: tree-top-view
+2020-06-06 20:01:38,193 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:38,695 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-top-view HTTP/1.1" 200 4206
+2020-06-06 20:01:38,697 Get Problem Code: 51338909
+2020-06-06 20:01:38,699 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:39,224 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-top-view/submissions/51338909 HTTP/1.1" 200 1194
+2020-06-06 20:01:39,224 Get Challenge details: binary-search-tree-insertion
+2020-06-06 20:01:39,224 Get problem details: binary-search-tree-insertion
+2020-06-06 20:01:39,224 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:39,740 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-insertion HTTP/1.1" 200 3928
+2020-06-06 20:01:39,746 Get Problem Code: 51337719
+2020-06-06 20:01:39,749 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:40,227 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-insertion/submissions/51337719 HTTP/1.1" 200 1221
+2020-06-06 20:01:40,227 Get Challenge details: binary-search-tree-insertion
+2020-06-06 20:01:40,227 Get problem details: binary-search-tree-insertion
+2020-06-06 20:01:40,242 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:40,781 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-insertion HTTP/1.1" 200 3928
+2020-06-06 20:01:40,785 Get Problem Code: 51337693
+2020-06-06 20:01:40,787 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:41,401 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/binary-search-tree-insertion/submissions/51337693 HTTP/1.1" 200 1229
+2020-06-06 20:01:41,401 Get Challenge details: arrays-ds
+2020-06-06 20:01:41,401 Get problem details: arrays-ds
+2020-06-06 20:01:41,401 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:41,931 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/arrays-ds HTTP/1.1" 200 14983
+2020-06-06 20:01:41,947 Get Problem Code: 51336410
+2020-06-06 20:01:41,947 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:42,452 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/arrays-ds/submissions/51336410 HTTP/1.1" 200 1225
+2020-06-06 20:01:42,452 Get Challenge details: balanced-brackets
+2020-06-06 20:01:42,452 Get problem details: balanced-brackets
+2020-06-06 20:01:42,452 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:43,032 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/balanced-brackets HTTP/1.1" 200 9714
+2020-06-06 20:01:43,036 Get Problem Code: 51183946
+2020-06-06 20:01:43,038 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:43,503 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/balanced-brackets/submissions/51183946 HTTP/1.1" 200 1483
+2020-06-06 20:01:43,503 Get Challenge details: tree-height-of-a-binary-tree
+2020-06-06 20:01:43,503 Get problem details: tree-height-of-a-binary-tree
+2020-06-06 20:01:43,503 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:44,031 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-height-of-a-binary-tree HTTP/1.1" 200 9809
+2020-06-06 20:01:44,036 Get Problem Code: 51107465
+2020-06-06 20:01:44,038 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:44,539 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-height-of-a-binary-tree/submissions/51107465 HTTP/1.1" 200 1219
+2020-06-06 20:01:44,541 Get Challenge details: find-the-merge-point-of-two-joined-linked-lists
+2020-06-06 20:01:44,541 Get problem details: find-the-merge-point-of-two-joined-linked-lists
+2020-06-06 20:01:44,543 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:45,160 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/find-the-merge-point-of-two-joined-linked-lists HTTP/1.1" 200 12474
+2020-06-06 20:01:45,160 Get Problem Code: 51101657
+2020-06-06 20:01:45,160 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:45,699 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/find-the-merge-point-of-two-joined-linked-lists/submissions/51101657 HTTP/1.1" 200 1333
+2020-06-06 20:01:45,704 Get Challenge details: detect-whether-a-linked-list-contains-a-cycle
+2020-06-06 20:01:45,704 Get problem details: detect-whether-a-linked-list-contains-a-cycle
+2020-06-06 20:01:45,706 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:46,262 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/detect-whether-a-linked-list-contains-a-cycle HTTP/1.1" 200 10821
+2020-06-06 20:01:46,270 Get Problem Code: 51101432
+2020-06-06 20:01:46,273 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:46,760 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/detect-whether-a-linked-list-contains-a-cycle/submissions/51101432 HTTP/1.1" 200 1292
+2020-06-06 20:01:46,763 Get Challenge details: delete-duplicate-value-nodes-from-a-sorted-linked-list
+2020-06-06 20:01:46,763 Get problem details: delete-duplicate-value-nodes-from-a-sorted-linked-list
+2020-06-06 20:01:46,765 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:47,278 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list HTTP/1.1" 200 16627
+2020-06-06 20:01:47,293 Get Problem Code: 51100792
+2020-06-06 20:01:47,296 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:48,289 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/submissions/51100792 HTTP/1.1" 200 1217
+2020-06-06 20:01:48,292 Get Challenge details: get-the-value-of-the-node-at-a-specific-position-from-the-tail
+2020-06-06 20:01:48,292 Get problem details: get-the-value-of-the-node-at-a-specific-position-from-the-tail
+2020-06-06 20:01:48,294 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:48,814 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail HTTP/1.1" 200 22327
+2020-06-06 20:01:48,845 Get Problem Code: 51100033
+2020-06-06 20:01:48,845 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:49,350 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/submissions/51100033 HTTP/1.1" 200 1382
+2020-06-06 20:01:49,355 Get Challenge details: merge-two-sorted-linked-lists
+2020-06-06 20:01:49,356 Get problem details: merge-two-sorted-linked-lists
+2020-06-06 20:01:49,359 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:49,866 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/merge-two-sorted-linked-lists HTTP/1.1" 200 10671
+2020-06-06 20:01:49,873 Get Problem Code: 51099601
+2020-06-06 20:01:49,875 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:50,589 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/merge-two-sorted-linked-lists/submissions/51099601 HTTP/1.1" 200 1322
+2020-06-06 20:01:50,592 Get Challenge details: compare-two-linked-lists
+2020-06-06 20:01:50,592 Get problem details: compare-two-linked-lists
+2020-06-06 20:01:50,594 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:51,108 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/compare-two-linked-lists HTTP/1.1" 200 10203
+2020-06-06 20:01:51,114 Get Problem Code: 51099050
+2020-06-06 20:01:51,116 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:51,583 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/compare-two-linked-lists/submissions/51099050 HTTP/1.1" 200 1318
+2020-06-06 20:01:51,583 Get Challenge details: reverse-a-linked-list
+2020-06-06 20:01:51,583 Get problem details: reverse-a-linked-list
+2020-06-06 20:01:51,583 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:52,158 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reverse-a-linked-list HTTP/1.1" 200 18412
+2020-06-06 20:01:52,177 Get Problem Code: 51098731
+2020-06-06 20:01:52,179 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:52,708 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reverse-a-linked-list/submissions/51098731 HTTP/1.1" 200 1422
+2020-06-06 20:01:52,708 Get Challenge details: print-the-elements-of-a-linked-list-in-reverse
+2020-06-06 20:01:52,708 Get problem details: print-the-elements-of-a-linked-list-in-reverse
+2020-06-06 20:01:52,708 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:53,247 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/print-the-elements-of-a-linked-list-in-reverse HTTP/1.1" 200 16060
+2020-06-06 20:01:53,262 Get Problem Code: 51087184
+2020-06-06 20:01:53,262 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:53,770 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/print-the-elements-of-a-linked-list-in-reverse/submissions/51087184 HTTP/1.1" 200 1303
+2020-06-06 20:01:53,770 Get Challenge details: delete-a-node-from-a-linked-list
+2020-06-06 20:01:53,770 Get problem details: delete-a-node-from-a-linked-list
+2020-06-06 20:01:53,770 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:54,272 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/delete-a-node-from-a-linked-list HTTP/1.1" 200 17135
+2020-06-06 20:01:54,283 Get Problem Code: 51086906
+2020-06-06 20:01:54,283 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:54,799 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/delete-a-node-from-a-linked-list/submissions/51086906 HTTP/1.1" 200 1394
+2020-06-06 20:01:54,799 Get Challenge details: insert-a-node-at-a-specific-position-in-a-linked-list
+2020-06-06 20:01:54,799 Get problem details: insert-a-node-at-a-specific-position-in-a-linked-list
+2020-06-06 20:01:54,799 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:55,315 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-a-specific-position-in-a-linked-list HTTP/1.1" 200 24128
+2020-06-06 20:01:55,330 Get Problem Code: 51086505
+2020-06-06 20:01:55,346 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:55,863 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/submissions/51086505 HTTP/1.1" 200 1374
+2020-06-06 20:01:55,863 Get Challenge details: insert-a-node-at-the-head-of-a-linked-list
+2020-06-06 20:01:55,863 Get problem details: insert-a-node-at-the-head-of-a-linked-list
+2020-06-06 20:01:55,863 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:56,368 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-the-head-of-a-linked-list HTTP/1.1" 200 8523
+2020-06-06 20:01:56,372 Get Problem Code: 51082808
+2020-06-06 20:01:56,374 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:56,909 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-the-head-of-a-linked-list/submissions/51082808 HTTP/1.1" 200 1286
+2020-06-06 20:01:56,909 Get Challenge details: insert-a-node-at-the-tail-of-a-linked-list
+2020-06-06 20:01:56,909 Get problem details: insert-a-node-at-the-tail-of-a-linked-list
+2020-06-06 20:01:56,924 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:57,597 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-the-tail-of-a-linked-list HTTP/1.1" 200 8436
+2020-06-06 20:01:57,601 Get Problem Code: 51082752
+2020-06-06 20:01:57,603 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:58,148 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/insert-a-node-at-the-tail-of-a-linked-list/submissions/51082752 HTTP/1.1" 200 1316
+2020-06-06 20:01:58,163 Get Challenge details: tree-postorder-traversal
+2020-06-06 20:01:58,163 Get problem details: tree-postorder-traversal
+2020-06-06 20:01:58,163 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:58,665 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-postorder-traversal HTTP/1.1" 200 4751
+2020-06-06 20:01:58,668 Get Problem Code: 50591536
+2020-06-06 20:01:58,670 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:59,179 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-postorder-traversal/submissions/50591536 HTTP/1.1" 200 1191
+2020-06-06 20:01:59,182 Get Challenge details: tree-preorder-traversal
+2020-06-06 20:01:59,182 Get problem details: tree-preorder-traversal
+2020-06-06 20:01:59,184 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:01:59,733 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-preorder-traversal HTTP/1.1" 200 5335
+2020-06-06 20:01:59,733 Get Problem Code: 50591284
+2020-06-06 20:01:59,733 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:00,223 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/tree-preorder-traversal/submissions/50591284 HTTP/1.1" 200 1183
+2020-06-06 20:02:00,226 Get Challenge details: maxsubarray
+2020-06-06 20:02:00,226 Get problem details: maxsubarray
+2020-06-06 20:02:00,228 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:00,791 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/maxsubarray HTTP/1.1" 200 15744
+2020-06-06 20:02:00,795 Get Problem Code: 50502294
+2020-06-06 20:02:00,797 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:01,338 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/maxsubarray/submissions/50502294 HTTP/1.1" 200 1448
+2020-06-06 20:02:01,344 Get Challenge details: print-the-elements-of-a-linked-list
+2020-06-06 20:02:01,344 Get problem details: print-the-elements-of-a-linked-list
+2020-06-06 20:02:01,346 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:01,954 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/print-the-elements-of-a-linked-list HTTP/1.1" 200 13454
+2020-06-06 20:02:01,958 Get Problem Code: 50122070
+2020-06-06 20:02:01,960 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:02,456 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/print-the-elements-of-a-linked-list/submissions/50122070 HTTP/1.1" 200 1311
+2020-06-06 20:02:02,461 Get Challenge details: linkedin-practice-array-left-rotation
+2020-06-06 20:02:02,461 Get problem details: linkedin-practice-array-left-rotation
+2020-06-06 20:02:02,464 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:02,998 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-array-left-rotation HTTP/1.1" 200 8367
+2020-06-06 20:02:03,001 Get Problem Code: 49589201
+2020-06-06 20:02:03,003 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:03,526 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-array-left-rotation/submissions/49589201 HTTP/1.1" 200 1160
+2020-06-06 20:02:03,530 Get Challenge details: linkedin-practice-dictionaries-and-maps
+2020-06-06 20:02:03,531 Get problem details: linkedin-practice-dictionaries-and-maps
+2020-06-06 20:02:03,534 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:04,117 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-dictionaries-and-maps HTTP/1.1" 200 18196
+2020-06-06 20:02:04,136 Get Problem Code: 49586968
+2020-06-06 20:02:04,138 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:04,817 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-dictionaries-and-maps/submissions/49586968 HTTP/1.1" 200 1300
+2020-06-06 20:02:04,817 Get Challenge details: linkedin-practice-nested-logic
+2020-06-06 20:02:04,817 Get problem details: linkedin-practice-nested-logic
+2020-06-06 20:02:04,817 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:05,349 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-nested-logic HTTP/1.1" 200 29395
+2020-06-06 20:02:05,381 Get Problem Code: 49585734
+2020-06-06 20:02:05,385 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:05,929 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-nested-logic/submissions/49585734 HTTP/1.1" 200 1182
+2020-06-06 20:02:05,933 Get Challenge details: linkedin-practice-bitwise-and
+2020-06-06 20:02:05,933 Get problem details: linkedin-practice-bitwise-and
+2020-06-06 20:02:05,936 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:06,788 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-bitwise-and HTTP/1.1" 200 21464
+2020-06-06 20:02:06,813 Get Problem Code: 49585265
+2020-06-06 20:02:06,816 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:07,493 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-bitwise-and/submissions/49585265 HTTP/1.1" 200 1227
+2020-06-06 20:02:07,500 Get Challenge details: linkedin-practice-binary-numbers
+2020-06-06 20:02:07,501 Get problem details: linkedin-practice-binary-numbers
+2020-06-06 20:02:07,504 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:08,086 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-binary-numbers HTTP/1.1" 200 9807
+2020-06-06 20:02:08,092 Get Problem Code: 49584782
+2020-06-06 20:02:08,095 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:08,680 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-binary-numbers/submissions/49584782 HTTP/1.1" 200 1312
+2020-06-06 20:02:08,680 Get Challenge details: linkedin-practice-divisible-sum-pairs
+2020-06-06 20:02:08,680 Get problem details: linkedin-practice-divisible-sum-pairs
+2020-06-06 20:02:08,695 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:10,324 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-divisible-sum-pairs HTTP/1.1" 200 13871
+2020-06-06 20:02:10,333 Get Problem Code: 35613215
+2020-06-06 20:02:10,336 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:10,832 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/linkedin-practice-divisible-sum-pairs/submissions/35613215 HTTP/1.1" 200 1210
+2020-06-06 20:02:10,836 Get Challenge details: ctci-array-left-rotation
+2020-06-06 20:02:10,836 Get problem details: ctci-array-left-rotation
+2020-06-06 20:02:10,838 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:11,508 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/ctci-array-left-rotation HTTP/1.1" 200 15036
+2020-06-06 20:02:11,523 Get Problem Code: 34501451
+2020-06-06 20:02:11,526 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:11,980 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/ctci-array-left-rotation/submissions/34501451 HTTP/1.1" 200 1277
+2020-06-06 20:02:12,011 Get Challenge details: fibonacci-modified
+2020-06-06 20:02:12,011 Get problem details: fibonacci-modified
+2020-06-06 20:02:12,011 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:12,559 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/fibonacci-modified HTTP/1.1" 200 17096
+2020-06-06 20:02:12,564 Get Problem Code: 27540268
+2020-06-06 20:02:12,568 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:13,065 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/fibonacci-modified/submissions/27540268 HTTP/1.1" 200 1305
+2020-06-06 20:02:13,080 Get Challenge details: alternating-characters
+2020-06-06 20:02:13,081 Get problem details: alternating-characters
+2020-06-06 20:02:13,084 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:13,681 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/alternating-characters HTTP/1.1" 200 28403
+2020-06-06 20:02:13,712 Get Problem Code: 27456576
+2020-06-06 20:02:13,712 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:14,333 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/alternating-characters/submissions/27456576 HTTP/1.1" 200 1332
+2020-06-06 20:02:14,337 Get Challenge details: beautiful-binary-string
+2020-06-06 20:02:14,337 Get problem details: beautiful-binary-string
+2020-06-06 20:02:14,340 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:14,866 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/beautiful-binary-string HTTP/1.1" 200 14348
+2020-06-06 20:02:14,879 Get Problem Code: 27456257
+2020-06-06 20:02:14,882 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:16,664 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/beautiful-binary-string/submissions/27456257 HTTP/1.1" 200 1374
+2020-06-06 20:02:16,664 Get Challenge details: reduced-string
+2020-06-06 20:02:16,664 Get problem details: reduced-string
+2020-06-06 20:02:16,664 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:17,806 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reduced-string HTTP/1.1" 200 8874
+2020-06-06 20:02:17,812 Get Problem Code: 27412687
+2020-06-06 20:02:17,816 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:18,352 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reduced-string/submissions/27412687 HTTP/1.1" 200 1275
+2020-06-06 20:02:18,357 Get Challenge details: a-very-big-sum
+2020-06-06 20:02:18,357 Get problem details: a-very-big-sum
+2020-06-06 20:02:18,361 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:18,864 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/a-very-big-sum HTTP/1.1" 200 12893
+2020-06-06 20:02:18,875 Get Problem Code: 27395622
+2020-06-06 20:02:18,878 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:19,615 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/a-very-big-sum/submissions/27395622 HTTP/1.1" 200 1153
+2020-06-06 20:02:19,615 Get Challenge details: compare-the-triplets
+2020-06-06 20:02:19,615 Get problem details: compare-the-triplets
+2020-06-06 20:02:19,615 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:20,164 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/compare-the-triplets HTTP/1.1" 200 22590
+2020-06-06 20:02:20,195 Get Problem Code: 27395516
+2020-06-06 20:02:20,195 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:20,743 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/compare-the-triplets/submissions/27395516 HTTP/1.1" 200 1299
+2020-06-06 20:02:20,743 Get Challenge details: simple-array-sum
+2020-06-06 20:02:20,743 Get problem details: simple-array-sum
+2020-06-06 20:02:20,743 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:21,262 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum HTTP/1.1" 200 11570
+2020-06-06 20:02:21,278 Get Problem Code: 27395273
+2020-06-06 20:02:21,278 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:21,759 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum/submissions/27395273 HTTP/1.1" 200 1156
+2020-06-06 20:02:21,774 Get Challenge details: simple-array-sum
+2020-06-06 20:02:21,774 Get problem details: simple-array-sum
+2020-06-06 20:02:21,774 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:22,425 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum HTTP/1.1" 200 11570
+2020-06-06 20:02:22,425 Get Problem Code: 27395085
+2020-06-06 20:02:22,425 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:22,929 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum/submissions/27395085 HTTP/1.1" 200 1159
+2020-06-06 20:02:22,929 Get Challenge details: simple-array-sum
+2020-06-06 20:02:22,929 Get problem details: simple-array-sum
+2020-06-06 20:02:22,929 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:23,471 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum HTTP/1.1" 200 11570
+2020-06-06 20:02:23,490 Get Problem Code: 27395006
+2020-06-06 20:02:23,492 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:23,972 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/simple-array-sum/submissions/27395006 HTTP/1.1" 200 1158
+2020-06-06 20:02:23,975 Get Challenge details: solve-me-first
+2020-06-06 20:02:23,976 Get problem details: solve-me-first
+2020-06-06 20:02:23,978 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:24,493 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/solve-me-first HTTP/1.1" 200 14317
+2020-06-06 20:02:24,509 Get Problem Code: 27394901
+2020-06-06 20:02:24,512 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:25,014 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/solve-me-first/submissions/27394901 HTTP/1.1" 200 1165
+2020-06-06 20:02:25,014 Get Challenge details: camelcase
+2020-06-06 20:02:25,014 Get problem details: camelcase
+2020-06-06 20:02:25,014 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:25,583 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/camelcase HTTP/1.1" 200 11298
+2020-06-06 20:02:25,586 Get Problem Code: 25065842
+2020-06-06 20:02:25,588 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:26,082 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/camelcase/submissions/25065842 HTTP/1.1" 200 1335
+2020-06-06 20:02:26,085 Get Challenge details: reduced-string
+2020-06-06 20:02:26,085 Get problem details: reduced-string
+2020-06-06 20:02:26,087 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:26,696 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reduced-string HTTP/1.1" 200 8873
+2020-06-06 20:02:26,696 Get Problem Code: 25065358
+2020-06-06 20:02:26,711 Starting new HTTPS connection (1): www.hackerrank.com:443
+2020-06-06 20:02:27,183 https://www.hackerrank.com:443 "GET /rest/contests/master/challenges/reduced-string/submissions/25065358 HTTP/1.1" 200 1357
